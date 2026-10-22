@@ -1,4 +1,5 @@
 // import React from "react";
+import { useState } from "react";
 
 type Rating = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10; //skala do 10
 
@@ -98,6 +99,14 @@ function Album(props: AlbumProps) {
 
 function App() {
 
+  
+  //zawijane
+  const [isMoviesOpen, setIsMoviesOpen] = useState(true);
+  const [isBooksOpen, setIsBooksOpen] = useState(true);
+  const [isAlbumsOpen, setIsAlbumsOpen] = useState(true);
+  const [is2010Open, setIs2010Open] = useState(true);
+  const [isSortedBooksOpen, setIsSortedBooksOpen] = useState(true);
+  const [isAlbumsMostTracksOpen, setIsAlbumsMostTracksOpen] = useState(true);
 
   const movies: MovieProps[] = [
           {releaseYear: 1999, title: "The Matrix", posterUrl: "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg", rating: 9},
@@ -188,7 +197,8 @@ function App() {
 
   return (
     <div>
-      <h1>Filmy</h1>
+      <h1 onClick={() => setIsMoviesOpen(!isMoviesOpen)}>{isMoviesOpen ? "⏷" : "⏵"} Filmy</h1>
+      
       <div
         style={{
           display: "flex",
@@ -197,7 +207,7 @@ function App() {
           justifyContent: "center",
         }}
       >
-        {movies.map((movie) => ( //przechodzi po tablicy 
+        {isMoviesOpen && movies.map((movie) => ( //przechodzi po tablicy 
         <div key={movie.title}>
           <Movie 
             {...movie}
@@ -206,8 +216,9 @@ function App() {
         </div>
         ))}
       </div>
+      
 
-      <h1>Książki</h1>
+      <h1 onClick={() => setIsBooksOpen(!isBooksOpen)}>{isBooksOpen ? "⏷" : "⏵"} Książki</h1>
       <div
         style={{
           display: "flex",
@@ -216,7 +227,7 @@ function App() {
           justifyContent: "center",
         }}
       >
-      {books.map((book) => ( //przechodzi po tablicy i tworzy komponent dla kazdego elementu
+      {isBooksOpen && books.map((book) => ( //przechodzi po tablicy i tworzy komponent dla kazdego elementu
         <div key={book.title}>
         <Book
           {...book}
@@ -226,7 +237,7 @@ function App() {
       ))}
       </div>
 
-      <h1>Albumy</h1>
+      <h1 onClick={() => setIsAlbumsOpen(!isAlbumsOpen)}>{isAlbumsOpen ? "⏷" : "⏵"} Albumy</h1>
       <div
         style={{
           display: "flex",
@@ -235,7 +246,7 @@ function App() {
           justifyContent: "center",
         }}
       >
-        {albums.map((album) => ( //przechodzi po tablicy i tworzy komponent dla kazdego elementu
+        {isAlbumsOpen && albums.map((album) => ( //przechodzi po tablicy i tworzy komponent dla kazdego elementu
           <div key={album.title}>
           <Album
             key={album.title}
@@ -305,7 +316,7 @@ function App() {
 
 
       
-      <h1>Filmy wydane po 2010 roku</h1>
+      <h1 onClick={() => setIs2010Open(!is2010Open)}>{is2010Open ? "⏷" : "⏵"} Filmy wydane po 2010 roku</h1>
       <div
         style={{
           display: "flex",
@@ -315,7 +326,7 @@ function App() {
         }}
       >
       
-      {moviesAfter2010.map((movie) => (
+      {is2010Open && moviesAfter2010.map((movie) => (
         <div 
           key={movie.title}>
             <Movie {...movie} />
@@ -324,7 +335,7 @@ function App() {
       ))}
       </div>
 
-      <h1>Posortowane książki (od najnowszej)</h1>
+      <h1 onClick={() => setIsSortedBooksOpen(!isSortedBooksOpen)}>{isSortedBooksOpen ? "⏷" : "⏵"} Posortowane książki (od najnowszej)</h1>
       <div style={{
           display: "flex",
           flexDirection: "row",
@@ -332,7 +343,7 @@ function App() {
           justifyContent: "center",
         }}
       >
-        {sortedBooks.map((book) => (
+        {isSortedBooksOpen && sortedBooks.map((book) => (
           <Book
             key={book.title}
             releaseYear={book.releaseYear}
@@ -345,7 +356,7 @@ function App() {
 
       </div>
 
-      <h1>Album z największą ilością utworów</h1>
+      <h1 onClick={() => setIsAlbumsMostTracksOpen(!isAlbumsMostTracksOpen)}>{isAlbumsMostTracksOpen ? "⏷" : "⏵"}Album z największą ilością utworów</h1>
       <div
         style={{
           display: "flex",
@@ -354,7 +365,7 @@ function App() {
           justifyContent: "center",
         }}
       >
-        {albumsMostTracks && <Album {...albumsMostTracks} />} 
+        {isAlbumsMostTracksOpen && albumsMostTracks && <Album {...albumsMostTracks} />} 
         {/* kropki rozpakowywuja zawartosc tablicy(kopiuje) */}
       </div>
 
