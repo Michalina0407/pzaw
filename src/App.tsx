@@ -15,7 +15,7 @@ function Movie(props: MovieProps) {
       <img style={{ height: 375 }} src={props.posterUrl} />
       <h2>{props.title}</h2>
       <span>{props.releaseYear}</span>
-      &bull; 
+      <br></br>
       <span>{props.rating}</span>
     </div>
   );
@@ -166,7 +166,9 @@ function App() {
             {index: 12, title: "Short Circuit", length: "3:26"},
             {index: 13, title: "Face to Face", length: "3:58"},
             {index: 14, title: "Too Long", length: "10:00"}
-          ]}
+          ]}, 
+
+          {releaseYear: 2000, band: "The Prodigy", title: "The Fat of the Land", genre: "big beat", coverUrl: "https://tse3.mm.bing.net/th/id/OIP.nM9IAdft8oCT6ApAMYYIsgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3", tracks: []}
         ]
   
   movies.sort((a, b)=>a.title.localeCompare(b.title)); //porownuje tytuly i sortuje
@@ -175,10 +177,14 @@ function App() {
 
   const moviesAfter2010 = movies.filter((movie) => movie.releaseYear > 2010);
 
-  books.sort((a, b) => b.releaseYear - a.releaseYear);
+  const sortedBooks = [ ...books ].sort((a, b) => b.releaseYear - a.releaseYear);
 
   const albumsMostTracks = [...albums].sort((a, b) => b.tracks.length - a.tracks.length)[0];
  //.. to kopia, [0] bierze od pierwszego
+
+
+
+
 
   return (
     <div>
@@ -191,14 +197,13 @@ function App() {
           justifyContent: "center",
         }}
       >
-        {movies.map((movie) => ( //przechodzi po tablicy i tworzy komponent dla kazdego elementu
-        <Movie
-            key={movie.title}
-            releaseYear={movie.releaseYear}
-            title={movie.title}
-            posterUrl={movie.posterUrl}
-            rating={movie.rating}
-        />
+        {movies.map((movie) => ( //przechodzi po tablicy 
+        <div key={movie.title}>
+          <Movie 
+            {...movie}
+          />
+          {movie.rating >= 8 && <p>Polecane</p>}
+        </div>
         ))}
       </div>
 
@@ -212,14 +217,12 @@ function App() {
         }}
       >
       {books.map((book) => ( //przechodzi po tablicy i tworzy komponent dla kazdego elementu
+        <div key={book.title}>
         <Book
-          key={book.title} //rozpoznaje element po tytule
-          //przekaz: 
-          releaseYear={book.releaseYear} 
-          title={book.title}
-          coverUrl={book.coverUrl}
-          numPages={book.numPages}
+          {...book}
         />
+        {book.releaseYear < 2000 && <p>Klasyka</p>}
+        </div>
       ))}
       </div>
 
@@ -233,6 +236,7 @@ function App() {
         }}
       >
         {albums.map((album) => ( //przechodzi po tablicy i tworzy komponent dla kazdego elementu
+          <div key={album.title}>
           <Album
             key={album.title}
             releaseYear={album.releaseYear}
@@ -242,9 +246,64 @@ function App() {
             coverUrl={album.coverUrl}
             tracks={album.tracks}
           />
+          {album.tracks.length === 0 && <p>Brak utworów</p>}
+          </div>
         ))}
         
+        
       </div>
+
+        {/* <h1>Filmy polecane</h1>
+        <div style={{
+          display: "flex",
+          flexDirection: "row",
+          gap: "10px",
+          justifyContent: "center",
+        }}
+      >
+        {recomended.map((movie)=> (<div key={movie.title}>
+          <Movie
+            releaseYear={movie.releaseYear}
+            title={movie.title}
+            posterUrl={movie.posterUrl}
+            rating={movie.rating}
+          /> 
+          </div>
+        ))}
+
+        </div>
+
+
+        <h1>Książki klasyczne</h1>
+
+        <div style={{
+          display: "flex",
+          flexDirection: "row",
+          gap: "10px",
+          justifyContent: "center",
+        }}
+      >
+        {classicBooks.map((book)=> (<div key={book.title}>
+          <Book
+            releaseYear={book.releaseYear}
+            title={book.title}
+            coverUrl={book.coverUrl}
+            numPages={book.numPages}
+          /> 
+          </div>
+        ))}
+
+        </div> */}
+
+
+
+
+
+
+
+
+
+
       
       <h1>Filmy wydane po 2010 roku</h1>
       <div
@@ -257,14 +316,33 @@ function App() {
       >
       
       {moviesAfter2010.map((movie) => (
-        <Movie
-          key={movie.title}
-          releaseYear={movie.releaseYear}
-          title={movie.title}
-          posterUrl={movie.posterUrl}
-          rating={movie.rating}
-        />
+        <div 
+          key={movie.title}>
+            <Movie {...movie} />
+          {movie.rating >= 8 && <p>Polecane</p>}
+        </div>
       ))}
+      </div>
+
+      <h1>Posortowane książki (od najnowszej)</h1>
+      <div style={{
+          display: "flex",
+          flexDirection: "row",
+          gap: "10px",
+          justifyContent: "center",
+        }}
+      >
+        {sortedBooks.map((book) => (
+          <Book
+            key={book.title}
+            releaseYear={book.releaseYear}
+            title={book.title}
+            coverUrl={book.coverUrl}
+            numPages={book.numPages}
+          />
+        ))}
+
+
       </div>
 
       <h1>Album z największą ilością utworów</h1>
