@@ -1,9 +1,12 @@
 // import React from "react";
 
+type Rating = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10; //skala do 10
+
 interface MovieProps {
   posterUrl: string;
   title: string;
   releaseYear: number;
+  rating: Rating;
 }
 
 function Movie(props: MovieProps) {
@@ -12,6 +15,8 @@ function Movie(props: MovieProps) {
       <img style={{ height: 375 }} src={props.posterUrl} />
       <h2>{props.title}</h2>
       <span>{props.releaseYear}</span>
+      &bull; 
+      <span>{props.rating}</span>
     </div>
   );
 }
@@ -95,9 +100,10 @@ function App() {
 
 
   const movies: MovieProps[] = [
-          {releaseYear: 1999, title: "The Matrix", posterUrl: "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg"},
-          {releaseYear: 2014, title: "Interstellar", posterUrl: "https://fwcdn.pl/fpo/56/29/375629/7670122_2.8.webp"},
-          {releaseYear: 2003, title: "Taxi 3", posterUrl: "https://upload.wikimedia.org/wikipedia/en/d/df/Taxi_3_film.jpg"}
+          {releaseYear: 1999, title: "The Matrix", posterUrl: "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg", rating: 9},
+          {releaseYear: 2014, title: "Interstellar", posterUrl: "https://fwcdn.pl/fpo/56/29/375629/7670122_2.8.webp", rating: 8},
+          {releaseYear: 2003, title: "Taxi 3", posterUrl: "https://upload.wikimedia.org/wikipedia/en/d/df/Taxi_3_film.jpg", rating: 5},
+          {releaseYear: 2011, title: "Inception", posterUrl: "https://cdng.europosters.eu/pod_public/1300/263129.jpg", rating: 9},
   ];
 
   const books: BookProps[] = [
@@ -124,7 +130,8 @@ function App() {
             {index: 11, title: "The Terminal", length: "5:42"},
             {index: 12, title: "Streamline", length: "5:23"},
             {index: 13, title: "Another Planet", length: "7:38"},
-            {index: 14, title: "Still Grey", length: "7:51"}
+            {index: 14, title: "Still Grey", length: "7:51"},
+            {index: 15, title: "Axle Grinder", length: "5:30"}
           ]}, 
 
           {releaseYear: 2003, band: "Overseer", title: "Wreckage", genre: "big beat", coverUrl: "https://upload.wikimedia.org/wikipedia/en/8/84/Overseer_-_Wreckage.jpg",
@@ -162,7 +169,16 @@ function App() {
           ]}
         ]
   
-  
+  movies.sort((a, b)=>a.title.localeCompare(b.title)); //porownuje tytuly i sortuje
+  books.sort((a, b)=>a.title.localeCompare(b.title)); 
+  albums.sort((a, b)=>a.title.localeCompare(b.title)); 
+
+  const moviesAfter2010 = movies.filter((movie) => movie.releaseYear > 2010);
+
+  books.sort((a, b) => b.releaseYear - a.releaseYear);
+
+  const albumsMostTracks = [...albums].sort((a, b) => b.tracks.length - a.tracks.length)[0];
+ //.. to kopia, [0] bierze od pierwszego
 
   return (
     <div>
@@ -181,6 +197,7 @@ function App() {
             releaseYear={movie.releaseYear}
             title={movie.title}
             posterUrl={movie.posterUrl}
+            rating={movie.rating}
         />
         ))}
       </div>
@@ -228,6 +245,41 @@ function App() {
         ))}
         
       </div>
+      
+      <h1>Filmy wydane po 2010 roku</h1>
+      <div
+        style={{
+          display: "flex",
+          flexDirection: "row",
+          gap: "10px",
+          justifyContent: "center",
+        }}
+      >
+      
+      {moviesAfter2010.map((movie) => (
+        <Movie
+          key={movie.title}
+          releaseYear={movie.releaseYear}
+          title={movie.title}
+          posterUrl={movie.posterUrl}
+          rating={movie.rating}
+        />
+      ))}
+      </div>
+
+      <h1>Album z największą ilością utworów</h1>
+      <div
+        style={{
+          display: "flex",
+          flexDirection: "row",
+          gap: "10px",
+          justifyContent: "center",
+        }}
+      >
+        {albumsMostTracks && <Album {...albumsMostTracks} />} 
+        {/* kropki rozpakowywuja zawartosc tablicy(kopiuje) */}
+      </div>
+
     </div>
   );
 }
