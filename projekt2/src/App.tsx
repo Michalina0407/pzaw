@@ -25,7 +25,7 @@ function Movie(props: MovieProps) {
         
         <button onClick={(event) => {
         event.stopPropagation();
-        console.log("Wybrano film: " + props.title);
+        console.log("Pokaż szczegóły dla  " + props.title);
         }}>Pokaż szczegóły</button>
         <p className="card-text">Ocena: {props.rating}</p>
         {props.rating >= 8 && (
