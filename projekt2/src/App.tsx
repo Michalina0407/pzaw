@@ -22,6 +22,11 @@ function Movie(props: MovieProps) {
       <div className="card-body">
         <h2 className="card-title">{props.title}</h2>
         <p className="card-text">{props.releaseYear}</p>
+        
+        <button onClick={(event) => {
+        event.stopPropagation();
+        console.log("Wybrano film: " + props.title);
+        }}>Pokaż szczegóły</button>
         <p className="card-text">Ocena: {props.rating}</p>
         {props.rating >= 8 && (
           <span className="badge text-bg-success">Polecane</span>
