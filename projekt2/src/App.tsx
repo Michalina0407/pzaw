@@ -282,11 +282,14 @@ function App() {
       {isMoviesOpen && (
         <div id="allmovies">
           <div className="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4">
-            {filteredMovies.map((movie) => (
+            {filteredMovies.length == 0 ? (
+              <p>Nie znaleziono filmów</p>
+            ) : (
+            filteredMovies.map((movie) => (
               <div className="col" key={movie.title}>
                 <Movie {...movie} />
               </div>
-            ))}
+            )))}
           </div>
           <h2 onClick={() => setIs2010Open(!is2010Open)}>{is2010Open ? "⏷" : "⏵"} Filmy wydane po 2010 roku</h2>
 
