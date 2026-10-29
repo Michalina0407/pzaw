@@ -153,6 +153,12 @@ function App() {
   const [isSortedBooksOpen, setIsSortedBooksOpen] = useState(true);
   const [isAlbumsMostTracksOpen, setIsAlbumsMostTracksOpen] = useState(true);
 
+
+  const[movieSearch, setMovieSearch] = useState("");
+  const[bookSearch, setBookSearch] = useState("");
+  const[songSearch, setSongSearch] = useState("");
+  
+
   const movies: MovieProps[] = [
     { releaseYear: 1999, title: "The Matrix", posterUrl: "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg", rating: 9 },
     { releaseYear: 2014, title: "Interstellar", posterUrl: "https://fwcdn.pl/fpo/56/29/375629/7670122_2.8.webp", rating: 8 },
@@ -160,12 +166,18 @@ function App() {
     { releaseYear: 2011, title: "Inception", posterUrl: "https://cdng.europosters.eu/pod_public/1300/263129.jpg", rating: 9 },
   ];
 
+
+  
+
   const books: BookProps[] = [
     { releaseYear: 2019, numPages: 272, title: "Atomowe nawyki", coverUrl: "https://files.legimi.com/images/44263fa8e9e4caa1720c7efd30d695e6/w512_u90.jpg" },
     { releaseYear: 2012, numPages: 667, title: "Pułapki myślenia. O myśleniu szybkim i wolnym", coverUrl: "https://static.profinfo.pl/storage/image/core_products/2026/8/23/196950ec8988246ea07ed9965506dcb3/admin/preview/6999907590569.webp" },
     { releaseYear: 2025, numPages: 304, title: "Tiny experiments", coverUrl: "https://m.media-amazon.com/images/I/61rUfWyyfoL._AC_UF1000,1000_QL80_.jpg" },
     { releaseYear: 1999, numPages: 352, title: "Pragmatyczny programista", coverUrl: "https://static01.helion.com.pl/global/okladki/vbig/prag2v.jpg" }
   ];
+
+
+
 
   const albums: AlbumProps[] = [
     {
@@ -244,15 +256,33 @@ function App() {
   const albumsMostTracks = [...albums].sort((a, b) => b.tracks.length - a.tracks.length)[0];
   //.. to kopia, [0] bierze od pierwszego
 
+
+  const filteredMovies = movies.filter((movie) => movie.title.toLowerCase().includes(movieSearch.toLowerCase()));
+  const filteredBooks = books.filter((book) => book.title.toLowerCase().includes(bookSearch.toLowerCase()));
+  const filteredAlbums = albums.filter((album) => album.title.toLowerCase().includes(songSearch.toLowerCase()));
+
+  
+
+
   return (
     <div className="container my-4">
+
+
+      <input
+        type="text"
+        id="movie-search"
+        className="form-control"
+        placeholder="Wpisz tytuł filmu"
+        value={movieSearch}
+        onChange={(e) => setMovieSearch(e.target.value)}
+      />
 
       <h1 onClick={() => setIsMoviesOpen(!isMoviesOpen)}>{isMoviesOpen ? "⏷" : "⏵"} Filmy</h1>
 
       {isMoviesOpen && (
         <div id="allmovies">
           <div className="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4">
-            {movies.map((movie) => (
+            {filteredMovies.map((movie) => (
               <div className="col" key={movie.title}>
                 <Movie {...movie} />
               </div>
@@ -273,12 +303,22 @@ function App() {
       )}
 
 
+      <input
+        type="text"
+        id="book-search"
+        className="form-control"
+        placeholder="Wpisz tytuł książki"
+        value={bookSearch}
+        onChange={(e) => setBookSearch(e.target.value)}
+      />
+
+
       <h1 onClick={() => setIsBooksOpen(!isBooksOpen)}>{isBooksOpen ? "⏷" : "⏵"} Książki</h1>
 
       {isBooksOpen && (
         <div id="allalbums">
           <div className="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4">
-            {books.map((book) => (
+            {filteredBooks.map((book) => (
               <div className="col" key={book.title}>
                 <Book {...book} />
               </div>
@@ -298,12 +338,24 @@ function App() {
         </div>
       )}
 
+
+      
+  <input
+      type="text"
+      id="song-search"
+      className="form-control"
+      placeholder="Wpisz tytuł piosenki"
+      value={songSearch}
+      onChange={(e) => setSongSearch(e.target.value)}
+    />
+
+
       <h1 onClick={() => setIsAlbumsOpen(!isAlbumsOpen)}>{isAlbumsOpen ? "⏷" : "⏵"} Albumy</h1>
 
       {isAlbumsOpen && (
         <div id="allbooks">
           <div className="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4">
-            {albums.map((album) => (
+            {filteredAlbums.map((album) => (
               <div className="col" key={album.title}>
                 <Album {...album} />
               </div>
