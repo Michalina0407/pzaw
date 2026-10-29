@@ -74,6 +74,14 @@ export default defineConfig([
 
 # Instrukcja instalacji
 
+Odrazu po odpaleniu aplikacji należy w terminalu wpisać
+
+1. " cd nazwa_folderu "
+2. " cmd "
+3. " npm install "
+4. " npm run dev "
+   Co powoli na odpalenie aplikacji
+
 Żeby zaimportować css do projektu należy dodać do pliku "main.tsx" (zaraz pod ostatnim importem)
 
 # " import 'bootstrap/dist/css/bootstrap.min.css'; "
