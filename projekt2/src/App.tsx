@@ -257,7 +257,7 @@ function App() {
   //.. to kopia, [0] bierze od pierwszego
 
 
-  const filteredMovies = movies.filter((movie) => movie.title.toLowerCase().includes(movieSearch.toLowerCase()));
+  const filteredMovies = movies.filter((movie) => movie.title.toLowerCase().includes(movieSearch.toLowerCase())) ;
   const filteredBooks = books.filter((book) => book.title.toLowerCase().includes(bookSearch.toLowerCase()));
   const filteredAlbums = albums.filter((album) => album.title.toLowerCase().includes(songSearch.toLowerCase()));
 
@@ -274,7 +274,7 @@ function App() {
         className="form-control"
         placeholder="Wpisz tytuł filmu"
         value={movieSearch}
-        onChange={(e) => setMovieSearch(e.target.value)}
+        onChange={(e) => {setMovieSearch(e.target.value); console.log(e.target.value);}}
       />
 
       <h1 onClick={() => setIsMoviesOpen(!isMoviesOpen)}>{isMoviesOpen ? "⏷" : "⏵"} Filmy</h1>
@@ -309,7 +309,7 @@ function App() {
         className="form-control"
         placeholder="Wpisz tytuł książki"
         value={bookSearch}
-        onChange={(e) => setBookSearch(e.target.value)}
+        onChange={(e) => {setBookSearch(e.target.value); console.log(e.target.value);}}
       />
 
 
@@ -346,7 +346,7 @@ function App() {
       className="form-control"
       placeholder="Wpisz tytuł piosenki"
       value={songSearch}
-      onChange={(e) => setSongSearch(e.target.value)}
+      onChange={(e) => {setSongSearch(e.target.value); console.log(e.target.value);}}
     />
 
 
