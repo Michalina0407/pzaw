@@ -1,0 +1,3404 @@
+[
+  {
+    "id": "p1378404436",
+    "title": "Everything is F*cked. Gdy pozostaje tylko nadzieja",
+    "coverImg": "covers/650e710a890248da92fb5052f087c13d.webp",
+    "discountedPrice": 27.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Manson Mark"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 06.2023",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1178255137",
+    "title": "Subtelnie mówię F*ck! Sprzeczna z logiką metoda na szczęśliwe życie",
+    "coverImg": "covers/15115250426585609.webp",
+    "discountedPrice": null,
+    "originalPrice": 38.29,
+    "authors": [
+      "Manson Mark"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 02.2018",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1279981801",
+    "title": "Will",
+    "coverImg": "covers/16297973660743943.webp",
+    "discountedPrice": null,
+    "originalPrice": 23.16,
+    "authors": [
+      "Smith Will",
+      "Manson Mark"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 11.2021",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1640506273",
+    "title": "Inżynieria AI. Tworzenie aplikacji z wykorzystaniem modeli bazowych",
+    "coverImg": "covers/4f9e3be340e847dda0b12c2c395b3a9e.webp",
+    "discountedPrice": 70.99,
+    "originalPrice": 129.0,
+    "authors": [
+      "Chip Huyen"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1421268110",
+    "title": "Python. Instrukcje dla programisty",
+    "coverImg": "covers/2046ba3c827c4df191c548a319ce6632.webp",
+    "discountedPrice": 69.99,
+    "originalPrice": 119.0,
+    "authors": [
+      "Matthes Eric"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 11.2023",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1765117370",
+    "title": "Przetwarzanie danych w dużej skali. Niezawodność, skalowalność i konserwacja systemów. Wydanie II",
+    "coverImg": "covers/761fb90c20df4a649afc26f7b043881c.webp",
+    "discountedPrice": 78.99,
+    "originalPrice": 149.0,
+    "authors": [
+      "Kleppmann Martin",
+      "Chris Riccomini"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1503825990",
+    "title": "Excel w tydzień. Uwolnij potęgę danych!",
+    "coverImg": "covers/9ec3afcd5c35489d96780d72c4cdadea.webp",
+    "discountedPrice": 25.99,
+    "originalPrice": 39.9,
+    "authors": [
+      "Mateusz Boryga"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 09.2024",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1500521455",
+    "title": "Sztuka podstępu. Łamałem ludzi, nie hasła",
+    "coverImg": "covers/b72d01bc04d34818ac1bc12982008659.webp",
+    "discountedPrice": 39.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Mitnick Kevin D.",
+      "Simon William L.",
+      "Wozniak Steve"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 03.2022",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1785509719",
+    "title": "Python. Nowoczesne programowanie w prostych krokach. Wydanie III",
+    "coverImg": "covers/90f8c25d5e2c4e4fad31c78ab6a21b4d.webp",
+    "discountedPrice": 93.99,
+    "originalPrice": 139.0,
+    "authors": [
+      "Lubanovic Bill"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1734303982",
+    "title": "Myślenie systemowe. Wprowadzenie",
+    "coverImg": "covers/cfe37e35d5314af79d95a9d3b0d7364c.webp",
+    "discountedPrice": 42.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Meadows Donella H."
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 6
+  },
+  {
+    "id": "p1306423504",
+    "title": "SQL w mgnieniu oka. Opanuj język zapytań w 10 minut dziennie",
+    "coverImg": "covers/ac48aa83ab8f43afa611e8add5221fb2.webp",
+    "discountedPrice": 38.99,
+    "originalPrice": 59.0,
+    "authors": [
+      "Forta Ben"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 12.2020",
+    "availableCopies": 5
+  },
+  {
+    "id": "p1373849926",
+    "title": "Sztuczna inteligencja od podstaw",
+    "coverImg": "covers/0582d8ea0c67420b905e9e7252bcac0f.webp",
+    "discountedPrice": 36.99,
+    "originalPrice": 49.0,
+    "authors": [
+      "Feliks Kurp"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 04.2023",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1785506819",
+    "title": "Claude Code i programowanie agentowe. Przewodnik dewelopera po systemach agentowych",
+    "coverImg": "covers/4372bdd618d841669659444b5c0a608c.webp",
+    "discountedPrice": 64.99,
+    "originalPrice": 89.0,
+    "authors": [
+      "Eden Marco"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1569228032",
+    "title": "Skuteczna inżynieria promptów. Przyszłościowe rozwiązania dla rzetelnych wyników generatywnej AI",
+    "coverImg": "covers/f18d7e92332f417baec5d1720769f411.webp",
+    "discountedPrice": 65.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "James Phoenix",
+      "Taylor Mike"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1256816669",
+    "title": "Systemy siatek w projektowaniu graficznym. Przewodnik dla grafików, typografów i projektantów 3D",
+    "coverImg": "covers/16068415746051037.webp",
+    "discountedPrice": 61.99,
+    "originalPrice": 98.0,
+    "authors": [
+      "Brockmann-Muller Josef"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka twarda, wyd. 12.2020",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1372911484",
+    "title": "Excel 365. Biblia",
+    "coverImg": "covers/68ad94cd5cb5482c93c088d1c89c4ae0.webp",
+    "discountedPrice": 112.99,
+    "originalPrice": 179.0,
+    "authors": [
+      "Alexander Michael",
+      "Kusleika Dick"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka twarda, wyd. 05.2023",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1379632762",
+    "title": "Inżynieria danych w praktyce. Kluczowe koncepcje i najlepsze technologie",
+    "coverImg": "covers/260f1751e50246a29273154e94bd8f30.webp",
+    "discountedPrice": 78.99,
+    "originalPrice": 119.0,
+    "authors": [
+      "Joe Reis",
+      "Matt Housley"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 06.2023",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1260619294",
+    "title": "Sztuczna inteligencja dla bystrzaków",
+    "coverImg": "covers/16111988620309918.webp",
+    "discountedPrice": 48.99,
+    "originalPrice": 59.0,
+    "authors": [
+      "Mueller John",
+      "Luca Massaron"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 03.2021",
+    "availableCopies": 6
+  },
+  {
+    "id": "p1722464864",
+    "title": "Vibe coding i przyszłość kodowania. Od programisty do dewelopera ery AI",
+    "coverImg": "covers/2850f67fc71a401499666aa7564cb48a.webp",
+    "discountedPrice": 59.99,
+    "originalPrice": 89.0,
+    "authors": [
+      "Addy Osmani"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1415381128",
+    "title": "Programowanie w asemblerze x64. Od nowicjusza do znawcy AVX",
+    "coverImg": "covers/d556c0236e854821b9ebf98227811fc4.webp",
+    "discountedPrice": 64.99,
+    "originalPrice": 77.0,
+    "authors": [
+      "Jo Van Hoey"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 12.2023",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1769222944",
+    "title": "ChatGPT dla bystrzaków. Wydanie II",
+    "coverImg": "covers/6de00a11e06a4a05905e78a8f01262d2.webp",
+    "discountedPrice": 43.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Pam Baker"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1693375217",
+    "title": "Obsługa komputera i laptopa z Windows 11 - wydanie III w MEGAFORMACIE",
+    "coverImg": "covers/805f68297d2448eba232de70cf6a7bcc.webp",
+    "discountedPrice": null,
+    "originalPrice": 59.0,
+    "authors": [
+      "Piotr Gomoliński"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1661108827",
+    "title": "Automatyka przemysłowa dla początkujących. Poznaj sterowniki PLC oraz panele HMI i naucz się je programować",
+    "coverImg": "covers/4d9d7ae9788f482eb1dae68fbb32f766.webp",
+    "discountedPrice": 48.99,
+    "originalPrice": 69.0,
+    "authors": [
+      "Podsiadły Marcin"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1549191712",
+    "title": "Informatyka 1-3 Część 1 Algorytmika I Programowanie",
+    "coverImg": "covers/3ebb7a46b10f4076b4ec78b7848815b7.webp",
+    "discountedPrice": null,
+    "originalPrice": 26.39,
+    "authors": [
+      "Koba Grażyna"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1325011106",
+    "title": "Algorytmy. Ilustrowany przewodnik",
+    "coverImg": "covers/f8188f9a77b546eea997a90cab4d3d0f.webp",
+    "discountedPrice": 45.99,
+    "originalPrice": 67.0,
+    "authors": [
+      "Bhargava Aditya"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 08.2017",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1506940315",
+    "title": "Wprowadzenie do algorytmów",
+    "coverImg": "covers/bf9dc32c09254ec1ab0de704c8c46b1d.webp",
+    "discountedPrice": 214.99,
+    "originalPrice": 259.0,
+    "authors": [
+      "Cormen Thomas H."
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1408579646",
+    "title": "Analityk danych. Przewodnik po data science, statystyce i uczeniu maszynowym",
+    "coverImg": "covers/fc86ea1ff80d4d5a9cdc223e4f791ca2.webp",
+    "discountedPrice": 57.99,
+    "originalPrice": 69.0,
+    "authors": [
+      "Alex J. Gutman",
+      "Jordan Goldmeier"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 10.2023",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1668123180",
+    "title": "Podstawy architektury oprogramowania dla inżynierów",
+    "coverImg": "covers/2204938699c24b12875b97978a78827e.webp",
+    "discountedPrice": 81.99,
+    "originalPrice": 129.0,
+    "authors": [
+      "Richards Mark",
+      "Ford Neal"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1666291830",
+    "title": "Java. Podstawy",
+    "coverImg": "covers/38b3b74f0ca0488c9b718f19888c34f3.webp",
+    "discountedPrice": 99.99,
+    "originalPrice": 149.0,
+    "authors": [
+      "Horstmann Cay S."
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1684362354",
+    "title": "Programuj ze sztuczną inteligencją. Twórz kod w Pythonie z wykorzystaniem GitHub Copilot i ChatGPT",
+    "coverImg": "covers/243b0d03549d43be8beb2ebc6d4cd19c.webp",
+    "discountedPrice": 57.99,
+    "originalPrice": 89.0,
+    "authors": [
+      "Porter Leo",
+      "Daniel Zingaro"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1322933834",
+    "title": "Jak działa Linux. Podręcznik administratora",
+    "coverImg": "covers/2972b6e0d8124a1d860a3a85483c5de2.webp",
+    "discountedPrice": 81.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "Ward Brian"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 09.2022",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1509221141",
+    "title": "Prompt engineering i ChatGPT. Poradnik skutecznej komunikacji ze sztuczną inteligencją",
+    "coverImg": "covers/bae7cbfa53f946959528e8562eae143b.webp",
+    "discountedPrice": 35.99,
+    "originalPrice": 59.0,
+    "authors": [
+      "Andrzej Kacprzak"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 08.2024",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1722464882",
+    "title": "Aplikacje oparte na agentach AI. Projektowanie i wdrażanie systemów wieloagentowych",
+    "coverImg": "covers/9f28334dc09846a4ab13825b66d89d2f.webp",
+    "discountedPrice": 65.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "Albada Michael"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1255260137",
+    "title": "Linux. Wprowadzenie do wiersza poleceń",
+    "coverImg": "covers/16055289908652608.webp",
+    "discountedPrice": 75.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "Shotts William"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1590163517",
+    "title": "Pragmatyczny programista. Od czeladnika do mistrza",
+    "coverImg": "covers/3afaf9d27dd541ee917b065bf5cae3bb.webp",
+    "discountedPrice": 63.99,
+    "originalPrice": 89.0,
+    "authors": [
+      "David Thomas",
+      "Hunt Andrew"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1130443183",
+    "title": "Sztuka podstępu. Łamałem ludzi, nie hasła",
+    "coverImg": "covers/14745348926452800.webp",
+    "discountedPrice": null,
+    "originalPrice": 36.92,
+    "authors": [
+      "Mitnick Kevin",
+      "Simon William L.",
+      "Wozniak Steve"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 11.2016",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1313190543",
+    "title": "Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych",
+    "coverImg": "covers/146ba358198a45e6aa792924ff07c04a.webp",
+    "discountedPrice": 43.99,
+    "originalPrice": 59.0,
+    "authors": [
+      "Krug Steve"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 11.2014",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1063143831",
+    "title": "Język C++. Szkoła programowania",
+    "coverImg": "covers/14708566636109268.webp",
+    "discountedPrice": null,
+    "originalPrice": 49.0,
+    "authors": [
+      "Prata Stephen"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka twarda, wyd. 12.2012",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1747570007",
+    "title": "Automatyka przemysłowa i systemy sterowania w pigułce",
+    "coverImg": "covers/24155c30c6d94c08b37c0a1e89ab0c6c.webp",
+    "discountedPrice": 36.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Krieser Witold"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1709266412",
+    "title": "Etyczny hacking i testy penetracyjne. Zadbaj o bezpieczeństwo sieci LAN i WLAN",
+    "coverImg": "covers/0ca1134f8d654ffbb82bc44e1b66357d.webp",
+    "discountedPrice": 58.99,
+    "originalPrice": 89.0,
+    "authors": [
+      "Krzysztof Godzisz"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1368986320",
+    "title": "Język ANSI C. Programowanie",
+    "coverImg": "covers/1169c1e5798d4350ab59b054c104aa00.webp",
+    "discountedPrice": 64.99,
+    "originalPrice": 77.0,
+    "authors": [
+      "Kernighan Brian W.",
+      "Ritchie Dennis M."
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 07.2020",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1705369881",
+    "title": "Power BI w praktyce. Przejdź na wyższy poziom analizy danych",
+    "coverImg": "covers/08c59d24b4e24c3e93ca496f7e3ef41c.webp",
+    "discountedPrice": 50.99,
+    "originalPrice": 79.0,
+    "authors": [
+      "Piśko-Pancerz Aleksandra"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1183228739",
+    "title": "Badanie UX. Praktyczne techniki projektowania bezkonkurencyjnych produktów",
+    "coverImg": "covers/15151557228460379.webp",
+    "discountedPrice": 41.99,
+    "originalPrice": 49.0,
+    "authors": [
+      "Nunnally Brad",
+      "Farkas David"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 03.2018",
+    "availableCopies": 15
+  },
+  {
+    "id": "p1315840396",
+    "title": "Koncepcja Domain-Driven Design. Dostosowywanie architektury aplikacji do strategii biznesowej",
+    "coverImg": "covers/59c8e8d9abd84d049c1e03971fe376da.webp",
+    "discountedPrice": null,
+    "originalPrice": 79.99,
+    "authors": [
+      "Vlad Khononov"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1118919268",
+    "title": "Zbrodnie przyszłości. Jak cyberprzestępcy, korporacje i państwa mogą używać technologii przeciwko tobie",
+    "coverImg": "covers/14708689207695432.webp",
+    "discountedPrice": null,
+    "originalPrice": 47.13,
+    "authors": [
+      "Goodman Marc"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 02.2016",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1459554746",
+    "title": "Python dla dzieci. Programowanie na wesoło",
+    "coverImg": "covers/731f292975c045cebba7d0affb12133b.webp",
+    "discountedPrice": 71.99,
+    "originalPrice": 79.0,
+    "authors": [
+      "Briggs Jason R."
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 10.2023",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1640503735",
+    "title": "Cyberprzestępczość w prawie karnym i kryminalistyce",
+    "coverImg": "covers/2517505373ca4064ab417d031cbd3782.webp",
+    "discountedPrice": null,
+    "originalPrice": 83.99,
+    "authors": [
+      "Opracowanie zbiorowe"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 01.2025",
+    "availableCopies": 6
+  },
+  {
+    "id": "p1309996162",
+    "title": "Wprowadzenie do C++",
+    "coverImg": "covers/20024e542c854fd280cb85ad3a5864bc.webp",
+    "discountedPrice": 38.99,
+    "originalPrice": 57.0,
+    "authors": [
+      "Matlak Michał"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1342894214",
+    "title": "Java. Podstawy",
+    "coverImg": "covers/809c285997a74b70924251ff7a970567.webp",
+    "discountedPrice": 82.99,
+    "originalPrice": 129.0,
+    "authors": [
+      "Horstmann Cay"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka twarda, wyd. 12.2022",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1503494471",
+    "title": "Programowanie w języku Rust. Oficjalny podręcznik",
+    "coverImg": "covers/2c276ede5ffa4ea083d716f36bc47a4c.webp",
+    "discountedPrice": 96.99,
+    "originalPrice": 129.0,
+    "authors": [
+      "Klabnik Steve",
+      "Nichols Carol"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 09.2024",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1491520776",
+    "title": "Ryzyko w cyberbezpieczeństwie. Metody modelowania, pomiaru i szacowania ryzyka",
+    "coverImg": "covers/df55e6ac6b79402580f6673d96936353.webp",
+    "discountedPrice": 46.99,
+    "originalPrice": 87.0,
+    "authors": [
+      "Hubbard Douglas W.",
+      "Richard Seiersen"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 07.2024",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1755572347",
+    "title": "Uczenie maszynowe z użyciem Scikit-Learn i PyTorch. Koncepcje, narzędzia i techniki umożliwiające konstruowanie inteligentnych systemów",
+    "coverImg": "covers/15bd81091bd64ff193c0bbfd8dd2d5e3.webp",
+    "discountedPrice": 131.99,
+    "originalPrice": 199.0,
+    "authors": [
+      "Geron Aurelien"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1626248850",
+    "title": "Stwórz własne AI. Jak od podstaw zbudować duży model językowy",
+    "coverImg": "covers/b3866197e807463681bdb398c276f2aa.webp",
+    "discountedPrice": 65.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "Raschka Sebastian"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 07.2025",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1247154628",
+    "title": "Badania jako podstawa projektowania User Experience",
+    "coverImg": "covers/15958600857071874.webp",
+    "discountedPrice": 94.99,
+    "originalPrice": 109.0,
+    "authors": [
+      "Mościchowska Iga",
+      "Rogoś-Turek Barbara"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 07.2020",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1298583178",
+    "title": "Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistów",
+    "coverImg": "covers/9b1e5bf21b604e249f1ec8c84b298e0a.webp",
+    "discountedPrice": 57.99,
+    "originalPrice": 89.0,
+    "authors": [
+      "Martin Robert C."
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 01.2022",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1329357653",
+    "title": "Kali Linux i testy penetracyjne. Biblia",
+    "coverImg": "covers/c2e5ddf80fae49ddbf6de3444f61f7fd.webp",
+    "discountedPrice": 72.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "Gus Khawaja"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 10.2022",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1405091192",
+    "title": "HTML i CSS. Przewodnik dla początkujących. Solidne podstawy kodowania i projektowania responsywnych stron internetowych",
+    "coverImg": "covers/52bcd0ac6cb7460ba326cc3eb7922879.webp",
+    "discountedPrice": 47.99,
+    "originalPrice": 69.0,
+    "authors": [
+      "David DuRocher"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 09.2023",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1521393219",
+    "title": "SQL w praktyce. Jak dzięki danym uzyskiwać cenne informacje. Wydanie II",
+    "coverImg": "covers/788f7a193b44454486f2ad0c407b7bef.webp",
+    "discountedPrice": 63.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "DeBarros Anthony"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 10.2024",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1440099937",
+    "title": "Python 3. Projekty dla początkujących i pasjonatów",
+    "coverImg": "covers/2fad1055df1b481c887790497e7994e5.webp",
+    "discountedPrice": 47.99,
+    "originalPrice": 69.0,
+    "authors": [
+      "Jurkiewicz Adam"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 01.2024",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1640504071",
+    "title": "50 idei, które powinieneś znać. AI Sztuczna inteligencja",
+    "coverImg": "covers/f8169626e53a417fa7e13d6a6b242878.webp",
+    "discountedPrice": null,
+    "originalPrice": 59.99,
+    "authors": [
+      "Mansfield Keith"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka twarda",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1694754536",
+    "title": "Blender. Podstawy modelowania w 3D",
+    "coverImg": "covers/d392e2272bf3412497507d308524d603.webp",
+    "discountedPrice": 57.99,
+    "originalPrice": 79.0,
+    "authors": [
+      "Kuk Damian"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1479367263",
+    "title": "DevOps dla zdesperowanych. Praktyczny poradnik przetrwania",
+    "coverImg": "covers/8a26a9b686934bdbb160c9a3953f25b1.webp",
+    "discountedPrice": 56.99,
+    "originalPrice": 67.0,
+    "authors": [
+      "Bradley Smith"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 05.2024",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1591423294",
+    "title": "CCNP 300-410 ENARSI. Zaawansowane administrowanie sieciami przedsiębiorstwa i bezpieczeństwo sieci",
+    "coverImg": "covers/358a7c9dc02d472fa7817ab37e933221.webp",
+    "discountedPrice": 107.99,
+    "originalPrice": 169.0,
+    "authors": [
+      "Józefiok Adam"
+    ],
+    "category": "informatyka",
+    "carrier": "okładka miękka, wyd. 04.2025",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1725329100",
+    "title": "Droga do mądrości. Nauka, dyscyplina i codzienna praktyka",
+    "coverImg": "covers/ca2eaa71d707474e84d34e3d8002a727.webp",
+    "discountedPrice": 48.99,
+    "originalPrice": 67.0,
+    "authors": [
+      "Holiday Ryan"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1619608276",
+    "title": "Stoicyzm na każdy dzień roku. 366 medytacji na temat mądrości, wytrwałości i sztuki życia",
+    "coverImg": "covers/e6c32312cd7248ec81b27f7929ff46ad.webp",
+    "discountedPrice": 31.99,
+    "originalPrice": 59.0,
+    "authors": [
+      "Holiday Ryan",
+      "Hanselman Stephen"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 05.2025",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1440529614",
+    "title": "Siła samodyscypliny. O panowaniu nad sobą w każdej sytuacji",
+    "coverImg": "covers/0cd9327180ce4f39bbebabebecfa633b.webp",
+    "discountedPrice": 38.99,
+    "originalPrice": 59.0,
+    "authors": [
+      "Holiday Ryan"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 01.2024",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1378404393",
+    "title": "Odwagi! Fortuna sprzyja nieustraszonym",
+    "coverImg": "covers/8adeec9004374ba7a4c05a774a5bf361.webp",
+    "discountedPrice": 32.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Holiday Ryan"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 06.2023",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1623883263",
+    "title": "Postępuj słusznie, tu i teraz. Dobre wartości, dobry charakter, dobre czyny",
+    "coverImg": "covers/faf0d1ed7be74116b2ddad5276f83bd2.webp",
+    "discountedPrice": 40.99,
+    "originalPrice": 59.0,
+    "authors": [
+      "Holiday Ryan"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 07.2025",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1692351928",
+    "title": "Ego to Twój wróg",
+    "coverImg": "covers/404895dd0ab44e3187a73abb37190c23.webp",
+    "discountedPrice": 35.99,
+    "originalPrice": 54.9,
+    "authors": [
+      "Holiday Ryan"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 12.2025",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1590966640",
+    "title": "Przeszkoda czy wyzwanie? Stoicka sztuka przekuwania problemów w sukcesy. Rozszerzone wydanie z okazji 10. rocznicy",
+    "coverImg": "covers/c04c29479b5e48f3bcaf2c1022270c41.webp",
+    "discountedPrice": 43.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Holiday Ryan"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 05.2025",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1287105734",
+    "title": "Umysł niewzruszony. W szkole mistrzów",
+    "coverImg": "covers/16374430339646628.webp",
+    "discountedPrice": 36.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Holiday Ryan"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka zintegrowana, wyd. 01.2022",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1275333264",
+    "title": "Stoicyzm na każdy dzień roku. 366 medytacji na temat mądrości, wytrwałości i sztuki życia",
+    "coverImg": "covers/16255910475958208.webp",
+    "discountedPrice": null,
+    "originalPrice": 37.0,
+    "authors": [
+      "Holiday Ryan",
+      "Hanselman Stephen"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 07.2021",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1202366949",
+    "title": "12 życiowych zasad. Antidotum na chaos",
+    "coverImg": "covers/2345f319d8664aee9edd5bdf10b58631.webp",
+    "discountedPrice": null,
+    "originalPrice": 66.23,
+    "authors": [
+      "Peterson Jordan B."
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 09.2018",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1614503666",
+    "title": "My, którzy zmagamy się z Bogiem. O przejawach boskości",
+    "coverImg": "covers/ea8cbd8b9dac4a5da247fb3ad8ab9053.webp",
+    "discountedPrice": null,
+    "originalPrice": 97.56,
+    "authors": [
+      "Peterson Jordan B."
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka twarda, wyd. 05.2025",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1288115729",
+    "title": "Poza porządek. Kolejne 12 życiowych zasad",
+    "coverImg": "covers/16382930386680418.webp",
+    "discountedPrice": null,
+    "originalPrice": 49.0,
+    "authors": [
+      "Peterson Jordan B."
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 12.2021",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1268794795",
+    "title": "Mapy sensu. Architektura przekonań",
+    "coverImg": "covers/16188480061771371.webp",
+    "discountedPrice": null,
+    "originalPrice": 71.09,
+    "authors": [
+      "Peterson Jordan B."
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka twarda, wyd. 04.2021",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1187764017",
+    "title": "Praca głęboka. Jak odnieść sukces w świecie w którym ciągle coś nas rozprasza",
+    "coverImg": "covers/15186040556621358.webp",
+    "discountedPrice": 29.99,
+    "originalPrice": 39.9,
+    "authors": [
+      "Newport Cal"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 03.2018",
+    "availableCopies": 16
+  },
+  {
+    "id": "p1238119146",
+    "title": "Cyfrowy minimalizm. Jak zachować skupienie w hałaśliwym świecie",
+    "coverImg": "covers/15792666223940566.webp",
+    "discountedPrice": 41.99,
+    "originalPrice": 54.9,
+    "authors": [
+      "Newport Cal"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 02.2020",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1271433140",
+    "title": "Moja praca, moja pasja. Zadbaj o udane życie zawodowe",
+    "coverImg": "covers/16237442021181051.webp",
+    "discountedPrice": 32.99,
+    "originalPrice": 44.9,
+    "authors": [
+      "Newport Cal"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 06.2021",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1546346223",
+    "title": "Powolna produktywność. Zapomniana sztuka osiągania sukcesów bez wypalenia zawodowego",
+    "coverImg": "covers/c3c042214f95493bad97a17f074d4c0c.webp",
+    "discountedPrice": 35.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Newport Cal"
+    ],
+    "category": "rozwój osobisty",
+    "carrier": "okładka miękka, wyd. 11.2024",
+    "availableCopies": 4
+  },
+  {
+    "id": "p1457298509",
+    "title": "Szkoła latania. Kajko i Kokosz",
+    "coverImg": "covers/db2b47199da54026aa3bdc4be97fc564.webp",
+    "discountedPrice": 29.99,
+    "originalPrice": 34.99,
+    "authors": [
+      "Christa Janusz"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 03.2024",
+    "availableCopies": 4
+  },
+  {
+    "id": "p1754148824",
+    "title": "Gramatyka w komiksie. Baba od polskiego przedstawia",
+    "coverImg": "covers/b0472dccd4784365bb144ed2542361aa.webp",
+    "discountedPrice": 38.88,
+    "originalPrice": 59.99,
+    "authors": [
+      "Aneta Korycińska",
+      "Krztoń Anna"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda",
+    "availableCopies": 4
+  },
+  {
+    "id": "p1728663537",
+    "title": "Heartstopper. Tom 6",
+    "coverImg": "covers/72fd038077d5405dbd80e36fc70dd5cd.webp",
+    "discountedPrice": 33.99,
+    "originalPrice": 54.9,
+    "authors": [
+      "Alice  Oseman"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1766110170",
+    "title": "Słowiańskie opowieści zimowe w komiksie",
+    "coverImg": "covers/bf0d9b51c7d9449f8057d353d62234a1.webp",
+    "discountedPrice": 30.99,
+    "originalPrice": 44.99,
+    "authors": [
+      "Wiktoria Korzeniewska",
+      "Futa Agnieszka"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1668908509",
+    "title": "Cyberpunk: Edgerunners MADNESS. Tom 1",
+    "coverImg": "covers/5c6571e97fa947279d4afa421af2c2c6.webp",
+    "discountedPrice": 34.99,
+    "originalPrice": 36.99,
+    "authors": [
+      "Sztybor Bartosz"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 16
+  },
+  {
+    "id": "p1267197995",
+    "title": "Zapiski zielarki. Tom 1",
+    "coverImg": "covers/16302576646880088.webp",
+    "discountedPrice": 30.99,
+    "originalPrice": 34.99,
+    "authors": [
+      "Hyuuga Natsu",
+      "Nekokurage",
+      "Nanao Itsuki",
+      "Touco Shino"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 12.2022",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1745570508",
+    "title": "Zoo. Absolute Batman. Tom 1",
+    "coverImg": "covers/cdcdb4eb40f141ed89a8dcce36da7a33.webp",
+    "discountedPrice": null,
+    "originalPrice": 119.95,
+    "authors": [
+      "Snyder Scott",
+      "Dragotta Nick"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1265308393",
+    "title": "Jujutsu Kaisen. Tom 1",
+    "coverImg": "covers/16203667940782300.webp",
+    "discountedPrice": null,
+    "originalPrice": 24.21,
+    "authors": [
+      "Akutami Gege"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 08.2021",
+    "availableCopies": 6
+  },
+  {
+    "id": "p1682317013",
+    "title": "Wojownicy. Tom 1",
+    "coverImg": "covers/9560c653e7da419fb68d4bcf20872e7c.webp",
+    "discountedPrice": 38.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Hunter Erin"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1267168018",
+    "title": "Projekt Cosplay. Tom 1",
+    "coverImg": "covers/16203668034402305.webp",
+    "discountedPrice": 27.99,
+    "originalPrice": 29.99,
+    "authors": [
+      "Fukuda Shinichi"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 01.2023",
+    "availableCopies": 18
+  },
+  {
+    "id": "p1766398963",
+    "title": "Pan Paparura i pies Aj oraz inne historie",
+    "coverImg": "covers/21867a2843f640a49e42ea84c5db2c10.webp",
+    "discountedPrice": 93.29,
+    "originalPrice": 139.99,
+    "authors": [
+      "Christa Janusz"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1280189782",
+    "title": "Zapiski zielarki. Tom 2",
+    "coverImg": "covers/3546789ad95543a6923757b3a32856f5.webp",
+    "discountedPrice": 28.99,
+    "originalPrice": 34.99,
+    "authors": [
+      "Hyuuga Natsu",
+      "Nekokurage",
+      "Nanao Itsuki",
+      "Touco Shino"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 01.2023",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1746141914",
+    "title": "Lato, kiedy umarł Hikaru. Tom 7",
+    "coverImg": "covers/47e502979d764da4a44b9a39bacd55b7.webp",
+    "discountedPrice": 24.99,
+    "originalPrice": 29.99,
+    "authors": [
+      "Mokumokuren"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1566496678",
+    "title": "Dogman. Tom 1",
+    "coverImg": "covers/15d8b73d34f94c7d985913c0a00b85e9.webp",
+    "discountedPrice": 23.99,
+    "originalPrice": 39.9,
+    "authors": [
+      "Pilkey Dav"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 01.2025",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1467431732",
+    "title": "Chłopak, który jej się spodobał wcale nie jest chłopakiem. Tom 1",
+    "coverImg": "covers/b5fd0c7f5c7c46e0a6a882396c51402e.webp",
+    "discountedPrice": null,
+    "originalPrice": 26.95,
+    "authors": [
+      "Arai Sumiko"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 06.2024",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1726068127",
+    "title": "Powrót do korzeni. Amazing Spider-Man. Tom 1",
+    "coverImg": "covers/0522dbb9390c4e9987b26dc41b2cb3f4.webp",
+    "discountedPrice": 41.99,
+    "originalPrice": 59.99,
+    "authors": [
+      "Spencer Nick",
+      "Ottley Ryan"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 4
+  },
+  {
+    "id": "p1785364462",
+    "title": "Yggdrasil. Thorgal. Tom 44",
+    "coverImg": "covers/6663688de006472587cad20e5c6b052d.webp",
+    "discountedPrice": 32.99,
+    "originalPrice": 39.99,
+    "authors": [
+      "Vignaux Frederic",
+      "Nicolas Jarry"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda",
+    "availableCopies": 6
+  },
+  {
+    "id": "p1682317040",
+    "title": "Wojownicy. Tom 2",
+    "coverImg": "covers/c157f873cd734ce19338e472d6848265.webp",
+    "discountedPrice": 38.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Hunter Erin"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1729436639",
+    "title": "Wojownicy. Tom 3",
+    "coverImg": "covers/bbb33764ff1b4671b59ba0166edd22af.webp",
+    "discountedPrice": 38.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Hunter Erin"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1766399458",
+    "title": "Prochy Kryptona. Absolute Superman. Tom 1",
+    "coverImg": "covers/e86fd16d8cec429496c329d07988ba28.webp",
+    "discountedPrice": null,
+    "originalPrice": 77.37,
+    "authors": [
+      "Aaron Jason",
+      "Sandoval Rafa"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1248910058",
+    "title": "Chainsaw Man. Tom 1",
+    "coverImg": "covers/16016141580435021.webp",
+    "discountedPrice": null,
+    "originalPrice": 24.9,
+    "authors": [
+      "Fujimoto Tatsuki"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 10.2020",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1764982078",
+    "title": "Solo Leveling. Tom 13",
+    "coverImg": "covers/96ccfdd0d7b7430f8b427d5bf09fb188.webp",
+    "discountedPrice": 36.99,
+    "originalPrice": 39.99,
+    "authors": [
+      "Chugong H-goon",
+      "Ki Soryeong",
+      "Disciples",
+      "Dubu"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1784695949",
+    "title": "Abominacja. Absolute Batman. Tom 2",
+    "coverImg": "covers/55002ba74026424da52e53118475e9d9.webp",
+    "discountedPrice": 74.99,
+    "originalPrice": 89.99,
+    "authors": [
+      "Snyder Scott",
+      "Dragotta Nick"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1360842941",
+    "title": "Lato, kiedy umarł Hikaru. Tom 1",
+    "coverImg": "covers/9ca11741a1e944f29572c5e14c5c6102.webp",
+    "discountedPrice": null,
+    "originalPrice": 29.99,
+    "authors": [
+      "Mokumokuren"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 01.2023",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1734383702",
+    "title": "Tytus, Romek i A'Tomek. Nowe przygody. Księga 1",
+    "coverImg": "covers/de6295cb982543d191a810bdbff72d01.webp",
+    "discountedPrice": 15.99,
+    "originalPrice": 19.99,
+    "authors": [
+      "Chmielewski Artur",
+      "Karol Weber",
+      "Larwa Zbigniew"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1512791987",
+    "title": "Chłopak, który jej się spodobał wcale nie jest chłopakiem. Tom 2",
+    "coverImg": "covers/3cc374f418ba4b069262472ae1de3982.webp",
+    "discountedPrice": null,
+    "originalPrice": 29.99,
+    "authors": [
+      "Arai Sumiko"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 10.2024",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1756390838",
+    "title": "K-popowe łowczynie demonów. Oficjalny komiks filmowy",
+    "coverImg": "covers/33155509afc54c6bb962a8349096f212.webp",
+    "discountedPrice": 42.99,
+    "originalPrice": 59.99,
+    "authors": [
+      "Random House"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1278723370",
+    "title": "Jujutsu Kaisen. Tom 0",
+    "coverImg": "covers/16290933391427668.webp",
+    "discountedPrice": null,
+    "originalPrice": 20.89,
+    "authors": [
+      "Akutami Gege"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 09.2021",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1289327747",
+    "title": "Zapiski zielarki. Tom 3",
+    "coverImg": "covers/16412341047128817.webp",
+    "discountedPrice": null,
+    "originalPrice": 34.99,
+    "authors": [
+      "Hyuuga Natsu",
+      "Nekokurage",
+      "Nanao Itsuki",
+      "Touco Shino"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 01.2023",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1754717767",
+    "title": "Ostatnia Amazonka. Absolute Wonder Woman. Tom 1",
+    "coverImg": "covers/19088bfbfdbd47578acf8e63201cd688.webp",
+    "discountedPrice": 64.99,
+    "originalPrice": 89.99,
+    "authors": [
+      "Thompson Kelly",
+      "Sherman Hayden"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1679138221",
+    "title": "Chłopak, który jej się spodobał wcale nie jest chłopakiem. Tom 3",
+    "coverImg": "covers/28fe2dfa90c04a1ea0f3e7e7a74fca2f.webp",
+    "discountedPrice": null,
+    "originalPrice": 30.99,
+    "authors": [
+      "Arai Sumiko"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1730449301",
+    "title": "Solo Leveling. Tom 12",
+    "coverImg": "covers/4ba22ab44a80478a90b249484f3e1e77.webp",
+    "discountedPrice": 32.99,
+    "originalPrice": 39.99,
+    "authors": [
+      "Chugong H-goon",
+      "Ki Soryeong",
+      "Disciples",
+      "Dubu"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1272184074",
+    "title": "Jujutsu Kaisen. Tom 2",
+    "coverImg": "covers/16234328923269162.webp",
+    "discountedPrice": 21.99,
+    "originalPrice": 24.99,
+    "authors": [
+      "Akutami Gege"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 07.2021",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1753589510",
+    "title": "Ta nowa",
+    "coverImg": "covers/45ab603683dd498aa42d43885022bdd6.webp",
+    "discountedPrice": 31.99,
+    "originalPrice": 44.99,
+    "authors": [
+      "Cassandra Calin"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1769861220",
+    "title": "Szalona miłość i inne opowieści. Batman",
+    "coverImg": "covers/f74058df2a214d0797051cd48ade955d.webp",
+    "discountedPrice": 27.99,
+    "originalPrice": 39.99,
+    "authors": [
+      "Timm Bruce",
+      "Dini Paul"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1506968782",
+    "title": "Bicz. Początek legendy. Wojownicy. Manga. Tom 1",
+    "coverImg": "covers/5387f0cb36bc46a087bdd41c588e8b1a.webp",
+    "discountedPrice": 23.99,
+    "originalPrice": 29.9,
+    "authors": [
+      "Hunter Erin",
+      "Jolley Dan"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1565705630",
+    "title": "Opowieść o dwóch kotach. Dogman. Tom 3",
+    "coverImg": "covers/9ea01b3b94a040c5bea4f9a787c5b892.webp",
+    "discountedPrice": 27.99,
+    "originalPrice": 39.9,
+    "authors": [
+      "Pilkey Dav"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 01.2024",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1770804753",
+    "title": "Chainsaw man. Tom 23",
+    "coverImg": "covers/a238a39af2e3465d8d70f354dc69b3a5.webp",
+    "discountedPrice": 25.99,
+    "originalPrice": 27.99,
+    "authors": [
+      "Fujimoto Tatsuki"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1726066527",
+    "title": "Psycho Squad. Cyberpunk 2077",
+    "coverImg": "covers/8a9566ebab5b42d780542c725cb19a02.webp",
+    "discountedPrice": null,
+    "originalPrice": 30.43,
+    "authors": [
+      "Watters Dan",
+      "McKeown Kieran"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1650471541",
+    "title": "Trybunał Sów. Batman",
+    "coverImg": "covers/823d35cfdd2e47bd834814784237acdf.webp",
+    "discountedPrice": 34.99,
+    "originalPrice": 44.99,
+    "authors": [
+      "Snyder Scott",
+      "Capullo Greg"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1719650577",
+    "title": "Na ratunek zamarzniętym wiewiórkom. Kurze wzgórze. Tom 2",
+    "coverImg": "covers/91814cd421294d1ca6b736034411542e.webp",
+    "discountedPrice": 27.99,
+    "originalPrice": 44.9,
+    "authors": [
+      "Blake Beccy"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1669090746",
+    "title": "Pakiet: Tytus, Romek i A'Tomek. Kolekcja 25 ksiąg",
+    "coverImg": "covers/e403260560914b8585243e8e9953baff.webp",
+    "discountedPrice": 119.99,
+    "originalPrice": 199.99,
+    "authors": [
+      "Chmielewski Henryk Jerzy"
+    ],
+    "category": "komiksy",
+    "carrier": "pudełko",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1388985888",
+    "title": "Nana. Tom 1",
+    "coverImg": "covers/0e13cfd99b41442fbdc4c006ce6005cc.webp",
+    "discountedPrice": 55.99,
+    "originalPrice": 64.9,
+    "authors": [
+      "Yazawa Ai"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 06.2023",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1551854629",
+    "title": "Bierz go! Dogman. Tom 2",
+    "coverImg": "covers/bbc48af7475d41cab3c8145a701f8171.webp",
+    "discountedPrice": 26.99,
+    "originalPrice": 39.9,
+    "authors": [
+      "Pilkey Dav"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 11.2024",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1565705621",
+    "title": "Dogman i Superkot. Dogman. Tom 4",
+    "coverImg": "covers/7daae31ab1c1436ead627e005f7f08c1.webp",
+    "discountedPrice": 26.99,
+    "originalPrice": 39.9,
+    "authors": [
+      "Pilkey Dav"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 01.2024",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1276271819",
+    "title": "Projekt Cosplay. Tom 2",
+    "coverImg": "covers/16265086543676948.webp",
+    "discountedPrice": 27.99,
+    "originalPrice": 29.99,
+    "authors": [
+      "Fukuda Shinichi"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 01.2023",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1746141950",
+    "title": "Projekt cosplay. Tom 14",
+    "coverImg": "covers/1e02d39f65884fb0837b955567f3473f.webp",
+    "discountedPrice": 26.99,
+    "originalPrice": 29.99,
+    "authors": [
+      "Fukuda Shinichi"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1338143964",
+    "title": "Moja Gwiazda. Tom 1",
+    "coverImg": "covers/6a3aca5659e1414ab3ca36a8a21ec276.webp",
+    "discountedPrice": 27.99,
+    "originalPrice": 29.99,
+    "authors": [
+      "Akasaka Aka",
+      "Mengo Yokoyari"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1564849016",
+    "title": "Kapitan Majtas 2 w 1. Tomy 1-2",
+    "coverImg": "covers/4534c87014f548149d41955045391414.webp",
+    "discountedPrice": 30.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Pilkey Dav"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1570519107",
+    "title": "Słowiańskie mity i opowieści",
+    "coverImg": "covers/dd795eb29b5f431d870cee518ca9a03b.webp",
+    "discountedPrice": null,
+    "originalPrice": 26.09,
+    "authors": [
+      "Wiktoria Korzeniewska",
+      "Noszczyńska Natalia"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda, wyd. 01.2025",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1680437003",
+    "title": "Zaślubiny świetlików. Tom 1",
+    "coverImg": "covers/adff61eaafb94fb8aa73d559379ffa86.webp",
+    "discountedPrice": null,
+    "originalPrice": 34.99,
+    "authors": [
+      "Tachibana Oreco"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1743956883",
+    "title": "Zapiski zielarki. Tom 15",
+    "coverImg": "covers/60a642dd58cd4e13a04158cc0a9f5692.webp",
+    "discountedPrice": 29.99,
+    "originalPrice": 34.99,
+    "authors": [
+      "Nanao Ikki",
+      "Hyuuga Natsu",
+      "Nekokurage"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1753740555",
+    "title": "Kubuś Puchatek. Antologia komiksu. Disney",
+    "coverImg": "covers/fec773010c56460abc281ae335b86572.webp",
+    "discountedPrice": 87.99,
+    "originalPrice": 149.0,
+    "authors": [
+      "Ferguson Don"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka twarda",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1626553637",
+    "title": "Jujutsu Kaisen. Tom 26",
+    "coverImg": "covers/5c7035d253af4220a17875703b98a110.webp",
+    "discountedPrice": null,
+    "originalPrice": 24.21,
+    "authors": [
+      "Akutami Gege"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka, wyd. 07.2025",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1754717679",
+    "title": "W próżnej próżni. Kajtek i Koko w kosmosie. Nowe Przygody. Tom 1",
+    "coverImg": "covers/e0f96bdaeffd449a91bddce5e1cae3bf.webp",
+    "discountedPrice": 27.99,
+    "originalPrice": 39.99,
+    "authors": [
+      "Kur Maciej",
+      "Fijał Mieczysław"
+    ],
+    "category": "komiksy",
+    "carrier": "okładka miękka",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1371587129",
+    "title": "Wywieranie wpływu na ludzi. Psychologia perswazji",
+    "coverImg": "covers/c9e01ba8acbc4fcba405d2300101875e.webp",
+    "discountedPrice": 132.99,
+    "originalPrice": 149.9,
+    "authors": [
+      "Cialdini Robert B."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 02.2023",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1267547950",
+    "title": "ADHD. Zespół nadpobudliwości psychoruchowej. Przewodnik dla rodziców i wychowawców",
+    "coverImg": "covers/16173200884852973.webp",
+    "discountedPrice": 52.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Opracowanie zbiorowe"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 04.2021",
+    "availableCopies": 4
+  },
+  {
+    "id": "p1527168156",
+    "title": "Pułapka szczęścia. Przestań walczyć, zacznij żyć",
+    "coverImg": "covers/de9db3814df340c39c27c5c3146cc8d3.webp",
+    "discountedPrice": null,
+    "originalPrice": 73.55,
+    "authors": [
+      "Harris Russ"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 07.2024",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1380777380",
+    "title": "Oswoić złość. Jak poradzić sobie z emocjami i odzyskać radość życia dzięki technikom ACT",
+    "coverImg": "covers/94141998a2364ab48c61c3b90881a6a0.webp",
+    "discountedPrice": 54.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Manuela O’Connell",
+      "Robyn D. Walser"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 05.2023",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1748169093",
+    "title": "Zaburzenie lękowe uogólnione Przewodnik praktyka",
+    "coverImg": "covers/4103edf830324e3e834f23d0a756e0f0.webp",
+    "discountedPrice": 109.99,
+    "originalPrice": 119.9,
+    "authors": [
+      "Melisa Robichaud",
+      "Naomi Koerner",
+      "Michel J. Dugas"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1380774675",
+    "title": "Na tropie podejrzanych myśli. Terapia ACT i CBT",
+    "coverImg": "covers/93c8efb49233432183978cd6c6cb4259.webp",
+    "discountedPrice": 45.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Gębka Artur"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 04.2023",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1484695276",
+    "title": "Zrozumieć ACT. Terapia akceptacji i zaangażowania w praktyce",
+    "coverImg": "covers/090879b3bec14881888ec2409da5e94e.webp",
+    "discountedPrice": 119.99,
+    "originalPrice": 129.9,
+    "authors": [
+      "Harris Russ"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 05.2024",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1434953874",
+    "title": "Transdiagnostyczna terapia poznawczo-behawioralna zaburzeń emocjonalnych. Poradnik Ujednolicony protokół leczenia",
+    "coverImg": "covers/8c2120d1455b4d28800fa4233c0ef3ea.webp",
+    "discountedPrice": 63.99,
+    "originalPrice": 69.9,
+    "authors": [
+      "Opracowanie zbiorowe"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 11.2023",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1393334404",
+    "title": "Psychoterapia poznawczo-behawioralna dzieci i młodzieży. Przewodnik praktyka",
+    "coverImg": "covers/49406fb5be0741f9bcc0e7057c81dcf8.webp",
+    "discountedPrice": 111.99,
+    "originalPrice": 129.9,
+    "authors": [
+      "Opracowanie zbiorowe"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka twarda, wyd. 06.2023",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1748169039",
+    "title": "Neuronieprzeciętni Przewodnik z ćwiczeniami dla młodzieży w spektrum autyzmu",
+    "coverImg": "covers/ddda725efef3402a947e5be69dadc773.webp",
+    "discountedPrice": 59.99,
+    "originalPrice": 69.9,
+    "authors": [
+      "Wiśniewski Artur"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1263537894",
+    "title": "Ponad lękiem",
+    "coverImg": "covers/16136635985855389.webp",
+    "discountedPrice": 52.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Hofmann Stefan G."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 03.2021",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1706498588",
+    "title": "Aktywizacja behawioralna w depresji. Praktyczny poradnik",
+    "coverImg": "covers/4a9927ce41984db5b08f891592ed197c.webp",
+    "discountedPrice": null,
+    "originalPrice": 73.55,
+    "authors": [
+      "Josefowitz Nina",
+      "Swallow Stephen R."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1272212429",
+    "title": "Jesteś kimś więcej, niż myślisz dla nastolatków",
+    "coverImg": "covers/16224499617068167.webp",
+    "discountedPrice": null,
+    "originalPrice": 66.26,
+    "authors": [
+      "Schab Lisa M."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 06.2021",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1549073294",
+    "title": "Wywieranie wpływu na ludzi. Teoria i praktyka",
+    "coverImg": "covers/cf74a6c73f3e44898c83156517f5517d.webp",
+    "discountedPrice": null,
+    "originalPrice": 126.95,
+    "authors": [
+      "Cialdini Robert B."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 09.2024",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1280851588",
+    "title": "W pułapce myśli. Jak skutecznie poradzić sobie z depresją, stresem i lękiem",
+    "coverImg": "covers/16308122842898564.webp",
+    "discountedPrice": null,
+    "originalPrice": 69.1,
+    "authors": [
+      "Smith Spencer",
+      "Hayes Steven C."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 04.2021",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1607794002",
+    "title": "Emocjonalne pułapki przeszłości. Jak przełamać negatywne wzorce zachowań?",
+    "coverImg": "covers/325f544de020448aab1a50e04278bc49.webp",
+    "discountedPrice": null,
+    "originalPrice": 73.55,
+    "authors": [
+      "Jacob Gitta",
+      "Van Genderen Hannie",
+      "Seebauer Laura"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 04.2025",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1666990232",
+    "title": "Perfekcjonizm. Jak uwolnić się od samokrytyki, zbudować stabilne poczucie własnej wartości i odnaleźć wewnętrzną równowagę?",
+    "coverImg": "covers/805a446839724dabbbf7966b9ec9313c.webp",
+    "discountedPrice": null,
+    "originalPrice": 79.33,
+    "authors": [
+      "Sharon Martin"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1456656229",
+    "title": "Potrzeby emocjonalne dziecka. Jak uniknąć rodzicielskich błędów, aby wychować emocjonalnie zdrowe, szczęśliwe dziecko",
+    "coverImg": "covers/57922b5ed1b54199901e10ce77895e23.webp",
+    "discountedPrice": 64.99,
+    "originalPrice": 69.9,
+    "authors": [
+      "McDonald Louis Karen",
+      "Louis John Philip"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 01.2024",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1465833635",
+    "title": "Szantaż emocjonalny. Jak się obronić przed manipulacją i wykorzystaniem",
+    "coverImg": "covers/cfa34b5c2fa2403b97e9714b3323eeb3.webp",
+    "discountedPrice": 54.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Frazier Donna",
+      "Forward Susan"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 02.2024",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1505869837",
+    "title": "Poskromić ADHD. Poznawczo-behawioralna terapia dorosłych. Podręcznik terapeuty",
+    "coverImg": "covers/ae1faa1abeb24216850a214cf899b029.webp",
+    "discountedPrice": null,
+    "originalPrice": 73.55,
+    "authors": [
+      "Safren Steven A.",
+      "Sprich Susan",
+      "Perlman Carol",
+      "Otto Michael W."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 06.2024",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1434953652",
+    "title": "Wysoko wrażliwe dziecko. Jak je zrozumieć i pomóc mu żyć w przytłaczającym świecie?",
+    "coverImg": "covers/ba7cb713941345b58a856bc7f4b47be3.webp",
+    "discountedPrice": 64.99,
+    "originalPrice": 69.9,
+    "authors": [
+      "Aron Elaine"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 12.2023",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1464491362",
+    "title": "Relacje, które niszczą. Jak zerwać toksyczne więzi rodzinne i uzdrowić swoje życie",
+    "coverImg": "covers/2b06cdd65e5e4503a45ebcb0efa17227.webp",
+    "discountedPrice": 64.99,
+    "originalPrice": 69.9,
+    "authors": [
+      "Sherrie Campbell"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 02.2024",
+    "availableCopies": 15
+  },
+  {
+    "id": "p1341744444",
+    "title": "Zaburzenie obsesyjno-kompulsyjne u nastolatków. Poradnik z ćwiczeniami",
+    "coverImg": "covers/04fe405117514382ab00db89fb26560f.webp",
+    "discountedPrice": 45.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Hershfield Jon"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 10.2022",
+    "availableCopies": 12
+  },
+  {
+    "id": "68708",
+    "title": "Wywieranie wpływu na ludzi. Teoria i praktyka",
+    "coverImg": "covers/14567667506900708.webp",
+    "discountedPrice": null,
+    "originalPrice": 75.32,
+    "authors": [
+      "Cialdini Robert B."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1752889927",
+    "title": "Psychologia rozwoju człowieka",
+    "coverImg": "covers/49df30784a34414f9cf8de2683f6ab41.webp",
+    "discountedPrice": 109.99,
+    "originalPrice": 119.9,
+    "authors": [
+      "Brzezińska Anna",
+      "Appelt Karolina",
+      "Ziółkowska Beata"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1669955018",
+    "title": "Lęk społeczny. Skuteczne strategie, które pomogą ci poradzić sobie z lękiem, zbudować pewność siebie i odnaleźć się w sytuacjach społecznych",
+    "coverImg": "covers/7954b36d7dd3491294cc2aff04406b91.webp",
+    "discountedPrice": null,
+    "originalPrice": 85.09,
+    "authors": [
+      "Hofmann Stefan G."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 5
+  },
+  {
+    "id": "p1244176434",
+    "title": "Transdiagnostyczna terapia poznawczo-behawioralna zaburzeń emocjonalnych. Podręcznik Terapeuty",
+    "coverImg": "covers/15941472086576417.webp",
+    "discountedPrice": null,
+    "originalPrice": 94.06,
+    "authors": [
+      "Cassiello-Robbins Clair"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 06.2020",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1593624161",
+    "title": "Psychologia miłości. Intymność - namiętność - zobowiązanie",
+    "coverImg": "covers/d01e092798604c97800930931e8ce113.webp",
+    "discountedPrice": null,
+    "originalPrice": 85.09,
+    "authors": [
+      "Wojciszke Bogdan"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 15
+  },
+  {
+    "id": "p1452046798",
+    "title": "Emocjonalne pułapki w związkach. Jak przełamać negatywne wzorce zachowań?",
+    "coverImg": "covers/8becdb97b61f4805ab19b44966371806.webp",
+    "discountedPrice": 63.99,
+    "originalPrice": 69.9,
+    "authors": [
+      "Stevens Bruce A.",
+      "Roediger Eckhard"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 12.2023",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1292792826",
+    "title": "Terapia poznawczo-behawioralna zaburzeń lękowych u młodzieży. Zeszyt ćwiczeń. Program „lęk”",
+    "coverImg": "covers/b8cb8ba9449c42128a286975270c8e39.webp",
+    "discountedPrice": null,
+    "originalPrice": 51.79,
+    "authors": [
+      "Webb Alicia",
+      "Hudson Jennifer",
+      "Choudhury Muniya",
+      "Kendall Philip C."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 01.2022",
+    "availableCopies": 10
+  },
+  {
+    "id": "334912",
+    "title": "Wywieranie wpływu na ludzi. Teoria i praktyka",
+    "coverImg": "covers/14565005671502619.webp",
+    "discountedPrice": null,
+    "originalPrice": 70.35,
+    "authors": [
+      "Cialdini Robert B."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1666987070",
+    "title": "Szczęśliwy mózg. Wykorzystaj odkrycia neuropsychologii, by zmienić swoje życie",
+    "coverImg": "covers/2b6fdf9ab98e4b4a9e277e9e4041ed78.webp",
+    "discountedPrice": null,
+    "originalPrice": 66.26,
+    "authors": [
+      "Hanson Rick"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1377416799",
+    "title": "Zaburzenie obsesyjno-kompulsyjne. Terapia ekspozycji i powstrzymywania reakcji",
+    "coverImg": "covers/cb0b5629d70a481490d5a4e976594b30.webp",
+    "discountedPrice": null,
+    "originalPrice": 59.8,
+    "authors": [
+      "Foa Edna B.",
+      "Yadin Elna",
+      "Tracey Lichner"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 03.2023",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1554558391",
+    "title": "Terapia poznawczo-behawioralna zaburzeń lękowych u młodzieży. Podręcznik terapeuty",
+    "coverImg": "covers/0071f52c677d44b5b3e131b49094679d.webp",
+    "discountedPrice": 50.99,
+    "originalPrice": 54.9,
+    "authors": [
+      "Webb Alicia",
+      "Hudson Jennifer",
+      "Choudhury Muniya",
+      "Kendall Philip C."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 10.2024",
+    "availableCopies": 11
+  },
+  {
+    "id": "prod61060342",
+    "title": "Sposób na trudne dziecko. Przyjazna terapia behawioralna",
+    "coverImg": "covers/14931025509825901.webp",
+    "discountedPrice": null,
+    "originalPrice": 290.62,
+    "authors": [
+      "Kołakowski Artur",
+      "Pisula Agnieszka"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 05.2011",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1593623074",
+    "title": "Terapia schematów. Przewodnik praktyka",
+    "coverImg": "covers/9d657b26506f4afd8450688a1a94d815.webp",
+    "discountedPrice": null,
+    "originalPrice": 142.76,
+    "authors": [
+      "Klosko Janet S.",
+      "Young Jeffrey",
+      "Weishaar Marjorie E."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 12
+  },
+  {
+    "id": "46749",
+    "title": "Psychologia. Podręcznik akademicki. Tom 2",
+    "coverImg": "covers/14567636797951870.webp",
+    "discountedPrice": null,
+    "originalPrice": 153.38,
+    "authors": [
+      "Opracowanie zbiorowe"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka twarda",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1354780066",
+    "title": "Samookaleczenia nastolatków. Uwolnij się od destrukcyjnych zachowań dzięki technikom terapii DBT. Poradnik z ćwiczeniami",
+    "coverImg": "covers/218102c7dad44e69b0f42feccbeb9b43.webp",
+    "discountedPrice": 54.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Sheri Van Dijk"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 11.2022",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1756077122",
+    "title": "Wielka księga wielkich emocji. Zabawy i ćwiczenia, które rozwiną inteligencję emocjonalną u dzieci",
+    "coverImg": "covers/wielka-ksiega-wielkich-emocji-zabawy-i-cwiczenia-ktore-rozwina-inteligencje-emocjonalna-u-dzieci-p-iext233086975.jpg",
+    "discountedPrice": 45.99,
+    "originalPrice": 47.52,
+    "authors": [
+      "Rachael Katz"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1711450032",
+    "title": "Depresja nastolatków. Praktyczne wskazówki i skuteczne strategie wspierające leczenie",
+    "coverImg": "covers/0e13b7cdf23c497b972c4541bad8cd0f.webp",
+    "discountedPrice": null,
+    "originalPrice": 73.55,
+    "authors": [
+      "Kołakowski Artur",
+      "Ambroziak Konrad",
+      "Siwek Klaudia"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1505871346",
+    "title": "W sieci natrętnych myśli. Jak uwolnić się od bezustannej walki z lękiem i niepokojem",
+    "coverImg": "covers/8a09826b0bc24d249cdd9f9abe578385.webp",
+    "discountedPrice": null,
+    "originalPrice": 57.55,
+    "authors": [
+      "Wilson Kelly G.",
+      "DuFrene Troy"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 06.2024",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1065553014",
+    "title": "Rozwój dziecka. Od 0 do 3 lat",
+    "coverImg": "covers/15202455925332926.webp",
+    "discountedPrice": null,
+    "originalPrice": 41.11,
+    "authors": [
+      "Brazelton Thomas B.",
+      "Sparrow Joshua D."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 04.2013",
+    "availableCopies": 2
+  },
+  {
+    "id": "p1371676663",
+    "title": "Smutek, którego nikt nie chciał. Opowiadanie z ćwiczeniami",
+    "coverImg": "covers/3debe969034c4c6e9a635ede49ac4ad3.webp",
+    "discountedPrice": null,
+    "originalPrice": 58.68,
+    "authors": [
+      "Gębka Artur"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 01.2023",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1643713333",
+    "title": "Transdiagnostyczna terapia zaburzeń emocjonalnych młodzieży. Poradnik",
+    "coverImg": "covers/892e4640129d4e89a5cecfc99ea2f998.webp",
+    "discountedPrice": null,
+    "originalPrice": 64.26,
+    "authors": [
+      "Opracowanie zbiorowe"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 15
+  },
+  {
+    "id": "2292897",
+    "title": "Argumentacja, perswazja, manipulacja. Wykłady z teorii komunikacji",
+    "coverImg": "covers/14567775852638152.webp",
+    "discountedPrice": null,
+    "originalPrice": 118.68,
+    "authors": [
+      "Tokarz Marek"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka twarda",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1362728849",
+    "title": "Rozbroić narcyza. Jak radzić sobie z osobą zapatrzoną w siebie",
+    "coverImg": "covers/06142889873346069683d4f015765d12.webp",
+    "discountedPrice": null,
+    "originalPrice": 62.46,
+    "authors": [
+      "Behary Wendy"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 01.2023",
+    "availableCopies": 14
+  },
+  {
+    "id": "339050",
+    "title": "Atrybucje",
+    "coverImg": "covers/14567753232244347.webp",
+    "discountedPrice": null,
+    "originalPrice": 16.43,
+    "authors": [
+      "Forsterling Friedrich"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1411582507",
+    "title": "Jesteś kimś więcej, niż myślisz",
+    "coverImg": "covers/27c2213130244ab687ef54766c594a18.webp",
+    "discountedPrice": null,
+    "originalPrice": 72.71,
+    "authors": [
+      "Schiraldi Glenn R."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 09.2023",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1627792446",
+    "title": "Zdrowa pewność siebie. Rozwiń ją dzięki technikom terapii akceptacji i zaangażowania oraz praktykom uważności",
+    "coverImg": "covers/419ec57cb7264d308bf1bd4ab564bd9d.webp",
+    "discountedPrice": null,
+    "originalPrice": 84.67,
+    "authors": [
+      "Harris Russ"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 05.2025",
+    "availableCopies": 10
+  },
+  {
+    "id": "prod370017",
+    "title": "Rozwój psychiczny dziecka od 0 do 10 lat",
+    "coverImg": "covers/14568021325338698.webp",
+    "discountedPrice": null,
+    "originalPrice": 24.76,
+    "authors": [
+      "Iig Frances L.",
+      "Baker Sidney M.",
+      "Bates Ames Louise"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 11.2007",
+    "availableCopies": 12
+  },
+  {
+    "id": "prod22410010",
+    "title": "Psychologia miłości",
+    "coverImg": "covers/14635472389360028.webp",
+    "discountedPrice": null,
+    "originalPrice": 76.42,
+    "authors": [
+      "Wojciszke Bogdan"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka twarda, wyd. 09.2009",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1371587110",
+    "title": "Lęk przed opuszczeniem. Jak go przezwyciężyć i zbudować zdrowy związek oparty na bliskości i zaufaniu",
+    "coverImg": "covers/728f294d08d24416be0b8009f4c8bff7.webp",
+    "discountedPrice": null,
+    "originalPrice": 79.17,
+    "authors": [
+      "Michelle Skeen"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 02.2023",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1687191359",
+    "title": "ADHD i zaburzenia lękowe osób dorosłych",
+    "coverImg": "covers/bd70b56cab394e38aa3dff85aff6656f.webp",
+    "discountedPrice": null,
+    "originalPrice": 90.84,
+    "authors": [
+      "Ramsay J. Russell"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "prod19590024",
+    "title": "Wywieranie wpływu na ludzi. Teoria i praktyka",
+    "coverImg": "covers/14567791208957939.webp",
+    "discountedPrice": null,
+    "originalPrice": 52.8,
+    "authors": [
+      "Cialdini Robert B."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka twarda",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1748168979",
+    "title": "Poznawczo-behawioralna terapia bezsenności Podręcznik dla praktyków",
+    "coverImg": "covers/6369053ee93b496ba3596d3f8087debe.webp",
+    "discountedPrice": null,
+    "originalPrice": 109.34,
+    "authors": [
+      "Fornal-Pawłowska Małgorzata",
+      "Salbert Joanna"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1280849662",
+    "title": "Idź własną drogą",
+    "coverImg": "covers/16308103395428507.webp",
+    "discountedPrice": 45.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Ciarrochi Joseph",
+      "Hayes Louise"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 10.2021",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1604613265",
+    "title": "Zaburzenia osobowości z wiązki B: antyspołeczne, borderline, narcystyczne, histroniczne. Strategie terapeutyczne",
+    "coverImg": "covers/b70753a943144cdc8ca8fdecc1513de2.webp",
+    "discountedPrice": null,
+    "originalPrice": 96.62,
+    "authors": [
+      "Fox Daniel J."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 04.2025",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1050986218",
+    "title": "Pokonać lęki i fobie",
+    "coverImg": "covers/14635419524384341.webp",
+    "discountedPrice": null,
+    "originalPrice": 14.15,
+    "authors": [
+      "Bemis Judith",
+      "Barrada Amr"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 06.2012",
+    "availableCopies": 16
+  },
+  {
+    "id": "p1127669268",
+    "title": "Pre-swazja. Jak w pełni wykorzystać techniki wpływu społecznego",
+    "coverImg": "covers/14751530943510409.webp",
+    "discountedPrice": null,
+    "originalPrice": 78.71,
+    "authors": [
+      "Cialdini Robert B."
+    ],
+    "category": "psychologia",
+    "carrier": "okładka miękka, wyd. 11.2016",
+    "availableCopies": 8
+  },
+  {
+    "id": "68555",
+    "title": "Wprowadzenie Do Psychologii. Podstawowe Zagadnienia",
+    "coverImg": "covers/14565005098511217.webp",
+    "discountedPrice": null,
+    "originalPrice": 72.03,
+    "authors": [
+      "Mietzel Gerd"
+    ],
+    "category": "psychologia",
+    "carrier": "okładka twarda",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1462905542",
+    "title": "Finansowa forteca. Jak inwestować skutecznie i mieć święty spokój",
+    "coverImg": "covers/22f218696af340de89c0a4067342f306.webp",
+    "discountedPrice": null,
+    "originalPrice": 119.99,
+    "authors": [
+      "Iwuć Marcin"
+    ],
+    "category": "finanse",
+    "carrier": "okładka twarda, wyd. 09.2020",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1486058929",
+    "title": "Sztuka wojny",
+    "coverImg": "covers/47000eb1db1d4738abb4e89fc2ffd0c8.webp",
+    "discountedPrice": 30.99,
+    "originalPrice": 57.0,
+    "authors": [
+      "Tzu Sun",
+      "Pin Sun",
+      "Sawyer Ralph D."
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka, wyd. 05.2024",
+    "availableCopies": 17
+  },
+  {
+    "id": "p1547174508",
+    "title": "Sztuka wojny. Wydanie premium (barwione brzegi)",
+    "coverImg": "covers/5fd5eb7feab14f21b472b56c0484a7eb.webp",
+    "discountedPrice": 58.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "Tzu Sun",
+      "Sawyer Ralph D."
+    ],
+    "category": "zarządzanie",
+    "carrier": "twarda, barwione brzegi, wyd. 11.2024",
+    "availableCopies": 8
+  },
+  {
+    "id": "373382",
+    "title": "Bogaty ojciec, biedny ojciec",
+    "coverImg": "covers/23f6f3c37a0146ea93f0a9680373d6d4.webp",
+    "discountedPrice": 29.99,
+    "originalPrice": 50.0,
+    "authors": [
+      "Kiyosaki Robert",
+      "Lechter Sharon L."
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 01.2018",
+    "availableCopies": 16
+  },
+  {
+    "id": "p1148229597",
+    "title": "Negocjuj jakby od tego zależało twoje życie!",
+    "coverImg": "covers/15006303378895067.webp",
+    "discountedPrice": 33.99,
+    "originalPrice": 44.9,
+    "authors": [
+      "Voss Chris",
+      "Raz Tahl"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 09.2017",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1271603138",
+    "title": "Książę",
+    "coverImg": "covers/16216193513503689.webp",
+    "discountedPrice": 19.99,
+    "originalPrice": 29.9,
+    "authors": [
+      "Machiavelli Niccolo"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka twarda, wyd. 05.2021",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1136509418",
+    "title": "Najbogatszy człowiek w Babilonie",
+    "coverImg": "covers/14848453594335214.webp",
+    "discountedPrice": 33.99,
+    "originalPrice": 44.9,
+    "authors": [
+      "Clason George S."
+    ],
+    "category": "biznes",
+    "carrier": "okładka twarda, wyd. 02.2017",
+    "availableCopies": 17
+  },
+  {
+    "id": "p1226206962",
+    "title": "Szef wymagający i wyrozumiały. Jak skutecznie zarządzać, nie tracąc ludzkiego oblicza",
+    "coverImg": "covers/15553308063480853.webp",
+    "discountedPrice": 39.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Scott Kim"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka, wyd. 06.2019",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1309971385",
+    "title": "Ekstremalne przywództwo. Elitarne taktyki Navy SEALs w zarządzaniu",
+    "coverImg": "covers/4d605c27376b45ac99ee43f287545c66.webp",
+    "discountedPrice": 31.99,
+    "originalPrice": 44.99,
+    "authors": [
+      "Willink Jocko",
+      "Babin Leif"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka, wyd. 04.2022",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1286199213",
+    "title": "Leniwy umysł. Dlaczego warto ciągle weryfikować swoje poglądy i decyzje",
+    "coverImg": "covers/16361754219726603.webp",
+    "discountedPrice": 39.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Grant Adam"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 10.2021",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1363816558",
+    "title": "Psychologia sprzedaży",
+    "coverImg": "covers/1c6346f085374f9ab7bd9b025ed2cbed.webp",
+    "discountedPrice": 40.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Tracy Brian"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 03.2023",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1148229676",
+    "title": "Zjedz tę żabę!",
+    "coverImg": "covers/15006306946735071.webp",
+    "discountedPrice": 26.99,
+    "originalPrice": 29.9,
+    "authors": [
+      "Tracy Brian"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 09.2017",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1466306581",
+    "title": "Śmierć z zerem na koncie",
+    "coverImg": "covers/924103c4188f4cceb1a4fa56c73129d7.webp",
+    "discountedPrice": null,
+    "originalPrice": 88.0,
+    "authors": [
+      "Perkins Bill"
+    ],
+    "category": "marketing",
+    "carrier": "okładka miękka, wyd. 01.2022",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1752847453",
+    "title": "Polski biznes. Jak InPost, CCC, Dr Irena Eris i inne marki powstawały z pasji, ryzyka i marzeń",
+    "coverImg": "covers/b3244d616e3d4b12a8615d31d04e9f92.webp",
+    "discountedPrice": 41.99,
+    "originalPrice": 59.99,
+    "authors": [
+      "Duszczyk Michał"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1105214260",
+    "title": "Mit przedsiębiorczości",
+    "coverImg": "covers/14648910901306967.webp",
+    "discountedPrice": 49.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Gerber Michael E."
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 03.2015",
+    "availableCopies": 11
+  },
+  {
+    "id": "2600529",
+    "title": "Inteligentny inwestor. Najlepsza książka o inwestowaniu wartościowym",
+    "coverImg": "covers/42403e7a97804df48182b0fbba8cecea.webp",
+    "discountedPrice": null,
+    "originalPrice": 94.06,
+    "authors": [
+      "Graham Benjamin"
+    ],
+    "category": "finanse",
+    "carrier": "okładka twarda, wyd. 01.2006",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1775553322",
+    "title": "Przedsiębiorca pełen talentów. Jak zbudować zespół na mocnych stronach",
+    "coverImg": "covers/8a6c98ef46fc4dc49753652830fafb80.webp",
+    "discountedPrice": 38.99,
+    "originalPrice": 69.0,
+    "authors": [
+      "Jarosz Karolina",
+      "Rowińska Kamila"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1431586228",
+    "title": "ETF-y, czyli działasz lokalnie, zarabiasz globalnie. Kompleksowy przewodnik dla polskiego inwestora",
+    "coverImg": "covers/d1531d84cf6a43bd8383d2aa2ddffcaf.webp",
+    "discountedPrice": 48.99,
+    "originalPrice": 79.0,
+    "authors": [
+      "Michał Walendowicz"
+    ],
+    "category": "finanse",
+    "carrier": "okładka miękka, wyd. 01.2024",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1305409428",
+    "title": "Jak zadbać o własne finanse?",
+    "coverImg": "covers/4da304d834174e649cc1c25f9f78ffdf.webp",
+    "discountedPrice": 23.99,
+    "originalPrice": 44.9,
+    "authors": [
+      "Iwuć Marcin"
+    ],
+    "category": "finanse",
+    "carrier": "okładka miękka, wyd. 05.2015",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1585384754",
+    "title": "W transie inwestowania. Podbij rynek pewnością siebie, żelazną dyscypliną i postawą zwycięzcy",
+    "coverImg": "covers/64d5a229a4774ebd9e411328904c5e0b.webp",
+    "discountedPrice": 37.99,
+    "originalPrice": 69.0,
+    "authors": [
+      "Douglas Mark"
+    ],
+    "category": "finanse",
+    "carrier": "okładka miękka",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1178166921",
+    "title": "Podstawy zarządzania organizacjami",
+    "coverImg": "covers/15109205785314054.webp",
+    "discountedPrice": 116.99,
+    "originalPrice": 139.0,
+    "authors": [
+      "Griffin Ricky W."
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka, wyd. 09.2017",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1486085385",
+    "title": "Sztuka wojny",
+    "coverImg": "covers/82c835e0c7fc4184a12d4eedcad6f15f.webp",
+    "discountedPrice": 35.99,
+    "originalPrice": 67.0,
+    "authors": [
+      "Sun Tzu",
+      "Pin Sun",
+      "Sawyer Ralph D."
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka twarda, wyd. 05.2024",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1127357831",
+    "title": "12-tygodniowy rok",
+    "coverImg": "covers/14696023359561692.webp",
+    "discountedPrice": 29.99,
+    "originalPrice": 39.0,
+    "authors": [
+      "Lennington Michael",
+      "Moran Brian P."
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 09.2016",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1451339354",
+    "title": "Spin selling. Sprzedawaj skuteczniej dzięki stawianiu właściwych pytań we właściwym czasie",
+    "coverImg": "covers/6b366acbab1e42a092426269c2d974cd.webp",
+    "discountedPrice": 91.99,
+    "originalPrice": 119.0,
+    "authors": [
+      "Rackham Neil"
+    ],
+    "category": "biznes",
+    "carrier": "okładka twarda, wyd. 03.2024",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1050875930",
+    "title": "Sztuka zadawania pytań w coachingu. Jak opanować najważniejszą umiejętność coacha?",
+    "coverImg": "covers/14706682504876266.webp",
+    "discountedPrice": null,
+    "originalPrice": 44.99,
+    "authors": [
+      "Stoltzfus Tony"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 06.2012",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1190563649",
+    "title": "Podstawy ekonomii",
+    "coverImg": "covers/15196485433863739.webp",
+    "discountedPrice": 98.99,
+    "originalPrice": 119.0,
+    "authors": [
+      "Opracowanie zbiorowe"
+    ],
+    "category": "ekonomia",
+    "carrier": "okładka miękka, wyd. 02.2018",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1525531206",
+    "title": "Inwestowanie dla każdego. Jak prosto i skutecznie pomnażać swoje pieniądze",
+    "coverImg": "covers/bc304fa001bb4dee904df1a43d798264.webp",
+    "discountedPrice": null,
+    "originalPrice": 126.31,
+    "authors": [
+      "Mateusz Samołyk"
+    ],
+    "category": "biznes",
+    "carrier": "okładka twarda, wyd. 01.2023",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1167061480",
+    "title": "Harvard Business Review. Podręcznik menedżera. 17 najważniejszych umiejętności lidera",
+    "coverImg": "covers/15059899661956243.webp",
+    "discountedPrice": 47.99,
+    "originalPrice": 69.0,
+    "authors": [
+      "Opracowanie zbiorowe"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka twarda, wyd. 10.2017",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1451838332",
+    "title": "Metoda Wima Hofa. Aktywuj pełnię swojego potencjału",
+    "coverImg": "covers/793ed317e23f489cb3d9ee444b4dc6e8.webp",
+    "discountedPrice": null,
+    "originalPrice": 89.0,
+    "authors": [
+      "Hof Wim"
+    ],
+    "category": "marketing",
+    "carrier": "okładka miękka, wyd. 01.2020",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1286225138",
+    "title": "Indywidualny program MBA. Rozwiń praktyczne umiejętności biznesowe",
+    "coverImg": "covers/16361971780399440.webp",
+    "discountedPrice": 63.99,
+    "originalPrice": 74.9,
+    "authors": [
+      "Kaufman Josh"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 09.2021",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1689636795",
+    "title": "Nowy Jednominutowy Menedżer",
+    "coverImg": "covers/ef897d65dd6b44afa1dac151a4263bed.webp",
+    "discountedPrice": 35.99,
+    "originalPrice": 39.9,
+    "authors": [
+      "Blanchard Ken"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka",
+    "availableCopies": 6
+  },
+  {
+    "id": "p1716608731",
+    "title": "Mała firma, silna marka. Jak zbudować wyróżniający się biznes",
+    "coverImg": "covers/b14c2f954ff7499ead54ba954f909f3f.webp",
+    "discountedPrice": 60.99,
+    "originalPrice": 69.9,
+    "authors": [
+      "Sznitowski Maciej"
+    ],
+    "category": "marketing",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1700678951",
+    "title": "Pięć dysfunkcji pracy zespołowej. Opowieść o przywództwie",
+    "coverImg": "covers/89d5a4002d47422dad961ab82b0103e4.webp",
+    "discountedPrice": 39.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Lencioni Patrick"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1417057809",
+    "title": "Finansowy ninja",
+    "coverImg": "covers/bbe3e4ddc7394a109c60be8293b245d7.webp",
+    "discountedPrice": null,
+    "originalPrice": 130.05,
+    "authors": [
+      "Szafrański Michał"
+    ],
+    "category": "finanse",
+    "carrier": "okładka miękka, wyd. 10.2023",
+    "availableCopies": 10
+  },
+  {
+    "id": "p1766124872",
+    "title": "Filozof w Dolinie Krzemowej. Palantir, Alex Karp i państwo nadzoru",
+    "coverImg": "covers/234dbba3da6f48378d900fbc3a6ba077.webp",
+    "discountedPrice": 62.99,
+    "originalPrice": 79.9,
+    "authors": [
+      "Steinberger Michael"
+    ],
+    "category": "ekonomia",
+    "carrier": "okładka miękka",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1255519574",
+    "title": "Standard Bitcoina",
+    "coverImg": "covers/7dedff09732449adacf11f099f5661ff.webp",
+    "discountedPrice": 48.99,
+    "originalPrice": 56.0,
+    "authors": [
+      "Ammous Saifedean"
+    ],
+    "category": "finanse",
+    "carrier": "okładka miękka, wyd. 11.2020",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1741644948",
+    "title": "Rachunkowość. Podstawy",
+    "coverImg": "covers/759e16f1a3a149eaa3f183b61713e240.webp",
+    "discountedPrice": 74.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "Śnieżek Ewa",
+      "Mazuchowska Beata",
+      "Piłacik Joanna",
+      "Stępień-Andrzejewska Joanna",
+      "Żurawska Joanna",
+      "Wiatr Michał"
+    ],
+    "category": "finanse",
+    "carrier": "okładka miękka",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1773178075",
+    "title": "Iluzja kontroli. Kto decyduje o tym, co kupujesz",
+    "coverImg": "covers/09bb6f0cd15a4dee855b7c95b2a65df8.webp",
+    "discountedPrice": 49.99,
+    "originalPrice": 56.19,
+    "authors": [
+      "Kupść Marianna"
+    ],
+    "category": "marketing",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1127062915",
+    "title": "Pięć dysfunkcji pracy zespołowej",
+    "coverImg": "covers/14679737707056368.webp",
+    "discountedPrice": 32.99,
+    "originalPrice": 39.9,
+    "authors": [
+      "Lencioni Patrick"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka, wyd. 09.2016",
+    "availableCopies": 16
+  },
+  {
+    "id": "p1354006715",
+    "title": "Metoda Lean Startup. Wykorzystaj innowacyjne narzędzia i stwórz firmę, która zdobędzie rynek",
+    "coverImg": "covers/1af79b2d1fb54ceb82dad8746e089fc4.webp",
+    "discountedPrice": 39.99,
+    "originalPrice": 57.0,
+    "authors": [
+      "Ries Eric"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka, wyd. 09.2017",
+    "availableCopies": 5
+  },
+  {
+    "id": "p1595620257",
+    "title": "Nvidia, droga do sukcesu. Jak Jensen Huang stworzył technologicznego giganta",
+    "coverImg": "covers/036f771226b846cbab6a3a5b2e30d68a.webp",
+    "discountedPrice": 64.99,
+    "originalPrice": 74.9,
+    "authors": [
+      "Tae Kim"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 05.2025",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1451838280",
+    "title": "Wojna Sztuki",
+    "coverImg": "covers/436f5271623847ce9e9fd8d72717655b.webp",
+    "discountedPrice": null,
+    "originalPrice": 99.0,
+    "authors": [
+      "Pressfield Steven"
+    ],
+    "category": "marketing",
+    "carrier": "okładka miękka, wyd. 01.2020",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1569028016",
+    "title": "Marketing",
+    "coverImg": "covers/b54d4ee080f74c4bbd8605e39e862ac6.webp",
+    "discountedPrice": 109.99,
+    "originalPrice": 179.0,
+    "authors": [
+      "Kotler Philip",
+      "Kevin Lane Keller",
+      "Alexander Chernev"
+    ],
+    "category": "marketing",
+    "carrier": "okładka miękka",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1231461244",
+    "title": "Odwaga w przywództwie. Cztery kompetencje autentycznego lidera",
+    "coverImg": "covers/15677469968562188.webp",
+    "discountedPrice": 43.99,
+    "originalPrice": 49.9,
+    "authors": [
+      "Brown Brene"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka, wyd. 10.2019",
+    "availableCopies": 11
+  },
+  {
+    "id": "p1449435983",
+    "title": "Mistrzowskie domykanie transakcji. Klucz do zarabiania pieniędzy w sferze profesjonalnej sprzedaży",
+    "coverImg": "covers/5942b624ad504e8283d8f98e3fbd3e54.webp",
+    "discountedPrice": 40.99,
+    "originalPrice": 59.0,
+    "authors": [
+      "Tracy Brian"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 03.2024",
+    "availableCopies": 12
+  },
+  {
+    "id": "p1693595006",
+    "title": "Buntownicy. Jak kreatywni i odważni ludzie zmieniają świat",
+    "coverImg": "covers/26d3296722fc4217a2142ef71c7f2494.webp",
+    "discountedPrice": 47.99,
+    "originalPrice": 59.9,
+    "authors": [
+      "Adam Grant"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka",
+    "availableCopies": 2
+  },
+  {
+    "id": "p1167792872",
+    "title": "Dobra strategia, zła strategia. Czym różnią się i jakie to ma znaczenie",
+    "coverImg": "covers/15066763093962442.webp",
+    "discountedPrice": 34.99,
+    "originalPrice": 39.9,
+    "authors": [
+      "Rumelt Richard P."
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka, wyd. 11.2017",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1474421502",
+    "title": "Zasady. Życie i praca",
+    "coverImg": "covers/30f2e1264c954c1e9e3e57a0f9bc13f1.webp",
+    "discountedPrice": 69.99,
+    "originalPrice": 89.9,
+    "authors": [
+      "Dalio Ray"
+    ],
+    "category": "biznes",
+    "carrier": "okładka twarda, wyd. 10.2024",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1779047786",
+    "title": "Tajemna historia złota. Mity, pieniądze, polityka i władza",
+    "coverImg": "covers/821955e6b8034e98a08f396bfb7e2a54.webp",
+    "discountedPrice": 43.99,
+    "originalPrice": 69.0,
+    "authors": [
+      "Frisby Dominic"
+    ],
+    "category": "finanse",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1585431432",
+    "title": "Coaching. Trening efektywności. Zasady i praktyka coachingu i przywództwa",
+    "coverImg": "covers/0202282dec9f45dd98ff44839b4f2e22.webp",
+    "discountedPrice": 73.99,
+    "originalPrice": 119.9,
+    "authors": [
+      "Whitmore John"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka twarda, wyd. 04.2025",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1303943733",
+    "title": "Zarządzanie projektami krok po kroku",
+    "coverImg": "covers/6d341b34a55a4f3aad9dd8402ee6eee1.webp",
+    "discountedPrice": null,
+    "originalPrice": 38.48,
+    "authors": [
+      "Kapusta Mariusz"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka, wyd. 07.2013",
+    "availableCopies": 13
+  },
+  {
+    "id": "p1427567387",
+    "title": "Psychologia szefa. Szef to zawód. Wydanie rozszerzone",
+    "coverImg": "covers/974456434ec44c6cb6d343773235523a.webp",
+    "discountedPrice": 66.99,
+    "originalPrice": 99.0,
+    "authors": [
+      "Haman Wojciech",
+      "Gut Jerzy"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka twarda, wyd. 01.2015",
+    "availableCopies": 9
+  },
+  {
+    "id": "p1130585009",
+    "title": "Dochodząc do Tak. Negocjowanie bez poddawania się",
+    "coverImg": "covers/14749723678482956.webp",
+    "discountedPrice": null,
+    "originalPrice": 56.97,
+    "authors": [
+      "Fisher Roger",
+      "Ury William",
+      "Patton Bruce"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka miękka, wyd. 07.2016",
+    "availableCopies": 8
+  },
+  {
+    "id": "p1756919226",
+    "title": "Harvard Business Review. Podręcznik zarządzania sprzedażą",
+    "coverImg": "covers/harvard-business-review-podrecznik-zarzadzania-sprzedaza-p-iext232944939.jpg",
+    "discountedPrice": 53.99,
+    "originalPrice": 85.0,
+    "authors": [
+      "Prabhakant Sinha",
+      "Arun Shastri",
+      "Sally Lorimer"
+    ],
+    "category": "zarządzanie",
+    "carrier": "okładka twarda",
+    "availableCopies": 14
+  },
+  {
+    "id": "p1779038308",
+    "title": "Nowe zasady marketingu i PR. Wydanie rozszerzone",
+    "coverImg": "covers/b488aa20365048929b2407e46fb8c165.webp",
+    "discountedPrice": 69.99,
+    "originalPrice": 89.9,
+    "authors": [
+      "David Meerman Scott"
+    ],
+    "category": "marketing",
+    "carrier": "okładka miękka",
+    "availableCopies": 0
+  },
+  {
+    "id": "p1752821233",
+    "title": "Mów tak, żeby kupowali. Model StoryBrand 2.0, czyli jak zbudować przekaz marki, która przyciąga klientów",
+    "coverImg": "covers/ae578a76edb448f89e07e44c6b2845ce.webp",
+    "discountedPrice": 61.99,
+    "originalPrice": 69.9,
+    "authors": [
+      "Donald Miller"
+    ],
+    "category": "marketing",
+    "carrier": "okładka miękka",
+    "availableCopies": 7
+  },
+  {
+    "id": "p1351871297",
+    "title": "Mapa kulturowa. Jak skutecznie radzić sobie z różnicami kulturowymi w biznesie",
+    "coverImg": "covers/c4899358cff74dcc808515f3d39cefe1.webp",
+    "discountedPrice": 46.99,
+    "originalPrice": 65.0,
+    "authors": [
+      "Meyer Erin"
+    ],
+    "category": "biznes",
+    "carrier": "okładka twarda, wyd. 01.2023",
+    "availableCopies": 17
+  },
+  {
+    "id": "p1770222764",
+    "title": "Jak uniknąć emerytalnej katastrofy.",
+    "coverImg": "covers/7a0c77a3aaef4b49ab6e5d7663481287.webp",
+    "discountedPrice": 68.99,
+    "originalPrice": 79.9,
+    "authors": [
+      "Borys Paweł",
+      "Marczuk Bartosz"
+    ],
+    "category": "biznes",
+    "carrier": "okładka miękka",
+    "availableCopies": 11
+  }
+]
